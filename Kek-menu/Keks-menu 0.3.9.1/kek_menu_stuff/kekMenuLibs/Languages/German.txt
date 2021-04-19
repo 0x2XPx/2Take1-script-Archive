@@ -1,0 +1,477 @@
+§Version§ 0.3.9.1 /;/DO NOT CHANGE THIS VALUE|_|
+Kek's menu /;/parent|_|Kek's menu
+General settings /;/parent|_|Allgemeine Einstellungen
+Vehicle /;/parent|_| Fahrzeug Optionen
+Self /;/parent|_|Selbst Optionen
+Vehicle peaceful /;/parent|_|Freundliche Fahrzeug Optionen
+Vehicle trolling /;/parent|_|Trolling Fahrzeug Optionen
+Vehicle settings /;/parent|_|Fahrzeug Einstellungen
+Vehicle blacklist /;/parent|_|Fahrzeug Blacklist
+Session malicious /;/parent|_|Schaedliche Lobby Optionen
+Player history /;/parent|_|Spieler verlauf
+Scripts /;/parent|_|Skripte
+Settings /;/parent|_|Einstellungen
+Chat /;/parent|_|Chat
+Custom chat judger /;/parent|_|Chat Richter
+Chat bot /;/parent|_|Chat bot
+Chat spamming /;/parent|_|Chat spamming
+Notification settings /;/parent|_|Benachrichtigungs Einstellungen
+Hotkey settings /;/parent|_|Hotkey Einstellungen
+Modder detection /;/parent|_|Modder Erkennung
+Blacklist /;/parent|_|Blacklist
+What to do with modders /;/parent|_|Was tun mit Moddern
+Protections /;/parent|_|Schutz
+Modder logging settings /;/parent|_|Einstellung zur Protokollierung von Moddern
+Modder unmark settings /;/parent|_|Einstellungen zum Entfernen von Moddermakierungen
+Auto kick tag settings /;/parent|_|Auto Kick Tag Einstellungen
+Which modder detections are on /;/parent|_|Welche Modder Erkennung ist an
+Weapons /;/parent|_|Waffen
+Kek's utilities /;/parent|_|Kek's Dienstprogramme
+Script loader /;/parent|_|Script Lader
+Language configuration /;/parent|_|Sprach Konfiguration
+Kek's menu /;/player parent|_|Kek's menu
+Vehicle /;/player parent|_|Fahrzeug
+Weapons /;/player parent|_|Waffen
+Trolling /;/player parent|_|Trolling
+Chat /;/player parent|_|Chat
+Malicious /;/player parent|_|Schaedlich
+Player utilities /;/player parent|_|Spieler Utilities
+Blacklist /;/player parent|_|Blacklist
+Scripts /;/player parent|_|Skripte
+Pedestrian /;/player parent|_|Fussgaenger
+Set /;/feature|_|Lege
+as default language. /;/feature|_|als standard Sprache fest
+Invert all switches /;/feature|_|Kehre alle Schalter um
+Toggle on / off script loader /;/feature|_|Schalter Script Lader an/aus
+Empty script loader file /;/feature|_|Leere Script Lader Datei
+Add script to auto loader /;/feature|_|Fuege Script zum Auto Lader hinzu
+Remove script from auto loader /;/feature|_|Entferne Script vom Auto Lader
+Modded stats, severity, click me /;/feature|_|Gemoddete Statistiken, schwere, klick mich an
+Modded scid detection /;/feature|_|Gemoddete SCID Erkennung
+Modded name detection /;/feature|_|Gemoddete Namenserkennung
+Entity crash protection /;/feature|_|Entitaeten Crash Schutz
+Modded net event detection /;/feature|_|Erkennnung von gemoddeten Net Events
+Blacklist /;/feature|_|Blacklist
+Check people's stats automatically /;/feature|_|Ueberpruefe Stats der Spieler automatisch
+Check everyone's stats /;/feature|_|Ueberpruefe Stats aller Spielers
+Check if anyone is in the blacklist /;/feature|_|Ueberpruefe ob irgendjemand in der Blacklist ist
+Detect any modded spectate /;/feature|_|Erkenne gemoddetes Beobachten
+Detect too long off the radar /;/feature|_|Erkenne zu lange vom Radar verschwunden
+Kick any vote kickers /;/feature|_|Kicke jeden der fuer einen Rauswurf abstimmt
+Add player / modify reason they were added /;/feature|_|Fuege Spieler hinzu / aendere Grund warum jemand hizugefügt wurde
+Remove player from blacklist /;/feature|_|Entferne Spieler von der Blacklist
+Add session to blacklist /;/feature|_|Fuege Spieler zur Blacklist hinzu
+Remove session from blacklist /;/feature|_|Entferne Sitzung von der Blacklist
+Get host automatically /;/feature|_|Erhalte automatisch Host
+Log modders with selected tags to blacklist /;/feature|_|Fuege Modder mit gewaehlten Tags zur Blacklist hinzu
+Auto kick modders with selected tags /;/feature|_|Kicke Modder mit ausgewaehlten Tags automatisch
+Auto unmark modders with selected tags /;/feature|_|Entferne Markierung von Moddern mit ausgewaehlten Tags automatisch
+Ram vehicle speed /;/feature|_|Geschwindigkeit des rammenden Fahrzeuges
+Ram everyone /;/feature|_|Ramme jeden
+Effect type, click me /;/feature|_|Effekt Typ, klick mich
+Apply effect to nearby vehicles /;/feature|_|Wende den Effekt auf alle Fahrzeuge in der Naehe an
+Vehicle fly nearby vehicles /;/feature|_|Bringe Fahrzeuge in der Nähe zum Fliegen
+Disable vehicles /;/feature|_|Deaktiviere Fahrzeuge
+Vehicle storm /;/feature|_|Fahrzeug Sturm
+Copy rid to clipboard /;/feature|_|Kopiere die RID zur Zwischenablage
+Copy ip to clipboard /;/feature|_|Kopiere die IP zur Zwischenablage
+Please click me for info /;/feature|_|Klicke mich an für Informationen
+Num of people, click to type /;/feature|_|Nummer der Spieler, klicke zum schreiben
+Player history /;/feature|_|Spieler Verlauf
+Clear searched player list /;/feature|_|Leere Liste der gesuchten Spieler
+Search (all players ever met) /;/feature|_|Suche nach (alle Spieler denen du je begegnet bist)
+Add entry vehicle blacklist /;/feature|_|Fuege Fahrzeug Blacklist einen Eintrag hinzu
+Remove entry vehicle blacklist /;/feature|_|Entferne Eintrag von der Fahrzeug Blacklist
+Empty vehicle blacklist /;/feature|_|Leere Fahrzeug Blacklist
+Vehicle blacklist only on selected players /;/feature|_|Fahrzeug Blacklist nur für ausgewaehlte Spieler
+Vehicle blacklist /;/feature|_|Fahrzeug Blacklist
+What to ram people with /;/feature|_|Mit was soll gerammt werden
+Spawn vehicle for everyone /;/feature|_|Spawne Fahrzeug fuer jeden
+Max everyone's car /;/feature|_|Maximiere Fahrzeuge von allen
+Teleport session to current position /;/feature|_|Teleportiere Sitzung zur derzeitigen Position
+Teleport session to waypoint /;/feature|_|Teleportiere Sitzung zum Wegpunkt
+Get host /;/feature|_|Erhalte Host
+Kick session /;/feature|_|Kicke die Sitzung
+Crash session /;/feature|_|Crashe die Sitzung
+Give session bounty /;/feature|_|Gib der Sitzung Kopfgeld
+Never wanted /;/feature|_|Nie gesucht
+off the radar /;/feature|_|Vom Radar verschwunden
+Reapply bounty /;/feature|_|Kopfgeld nach Tod erneut anwenden
+Give 10k /;/feature|_|Gib 10k
+Block passive /;/feature|_|Blockiere Passiv Modus
+Send to random mission /;/feature|_|Sende zu einer zufaelligen Mission
+Perico island /;/feature|_|Perico Insel
+Apartment invites /;/feature|_|Wohnungs Einladungen
+Ban CEO /;/feature|_|Banne CEO
+Dismiss CEO /;/feature|_|Entlasse CEO
+Terminate CEO /;/feature|_|Kuendige CEO
+Transaction error /;/feature|_|Transaktionsfehler
+Add entry chat judger /;/feature|_|Fuege Eintrag zum Chat Richter hinzu
+Remove entry chat judger /;/feature|_|Entferne Eintrag vom Chat Richter
+Empty chat judge file /;/feature|_|Leere Chat Richter Datei
+What reaction, click me /;/feature|_|Welcher Reaktion, klick mich
+Custom chat judge /;/feature|_|Eigener Chat Richter
+Judge only selected players /;/feature|_|Urteile nur ueber ausgewaehlte Spieler
+Spam speed, click to type /;/feature|_|Spam geschwindigkeit, klicke zum schreiben
+Text to spam, type it in /;/feature|_|Text zum spammen, schreib ihn rein
+Grab text from clipboard(what u copied) /;/feature|_|Nehme Text von Zwischenablage(was du kopiert hast)
+Grab text from clipboard and send each line /;/feature|_|Nehme Text von Zwischenablage und sende jede Zeile
+Grab text from file /;/feature|_|Nehme Text von Datei
+Random text from file /;/feature|_|Zufaelliger Text von Datei
+Chat spammer /;/feature|_|Chat spammer
+Echo delay, click to type /;/feature|_|Echoverzoegerung, klicke um zu schreiben
+Echo chat /;/feature|_|Echo chat
+Echo selected players only /;/feature|_|Echo nur ausgewaehlte Spieler
+Add entry to chat bot /;/feature|_|Fuege Eintrag zum Chat Bot hinzu
+Remove entry from chat bot /;/feature|_|Entferne Eintrag vom Chat Bot
+Remove all entries from chatbot /;/feature|_|Entferne alle Eintraege vom Chat Bot
+Answer delay chatbot /;/feature|_|Chat Bot Antwort Verzoegerung
+Chat bot /;/feature|_|Chat bot
+Disconnect from session /;/feature|_|Von der Sitzung trennen
+Max car /;/feature|_|Maximiere Fahrzeug
+Max car loop /;/feature|_|Maximiere Fahrzeug Loop
+Change default vehicle /;/feature|_|Aendere standard Fahrzeug
+Change backplate text /;/feature|_|Aendere Kennzeichentext
+What vehicle to spawn /;/feature|_|Welches Fahrzeug spawnen
+Spawn vehicle /;/feature|_|Spawn Fahrzeug
+Vehicle fly speed, click to type /;/feature|_|Fahrzeug Fliegen Geschwindigkeit
+Vehicle fly /;/feature|_|Fahrzeug fliegen
+Type in what object /;/feature|_|Gib ein welches Objekt
+Object gun /;/feature|_|Objekt Waffe
+Airstrike gun /;/feature|_|Luftschlag Waffe
+What vehicle vehicle gun /;/feature|_|Welches Fahrzeug in Fahrzeug Waffe
+Vehicle gun /;/feature|_|Fahrzeug Waffe
+Entity type, click me for info /;/feature|_|Entitaet Typ, klick mich fuer Info
+Ignore other players entity clear /;/feature|_|Ignoriere Entitaeten loeschen von anderen
+Clear entity type /;/feature|_|Loesche Entitaeten Typ
+Shoot entity| get model name of entity /;/feature|_|Schiess Entitaet| Erhalte Namen von Entitaet
+Enable hotkeys /;/feature|_|Aktiviere Hotkeys
+Save settings to default /;/feature|_|Speichere ins standard Profil
+1 = Load profile /;/feature|_|1 = Profil laden
+2 = Overwrite/save profile /;/feature|_|2 = Profil ueberschreiben/speichern
+3 = Change profile name /;/feature|_|3 = Profilnamen aendern
+Add player / modify reason they were added /;/player feature|_|Fuege Spieler hinzu / aendere Grund warum jemand hizugefügt wurde
+Remove player from blacklist /;/player feature|_|Entferne Spieler von Blacklist
+Ram vehicle speed /;/player feature|_|Geschwindigkeit des rammenden Fahrzeuges
+Kick player /;/player feature|_|Kicke Spieler
+Vehicle blacklist on this player /;/player feature|_|Fahrzeug Blacklist fuer diesen Spieler
+Get model name of their car to clipboard /;/player feature|_|Kopiere Modelnamen vom Fahrzeug des Spielers in Zwischenablage
+Chat judge this player /;/player feature|_|Chat Richter fuer diesen Spieler
+Echo this player /;/player feature|_|Echo diesen Spieler
+Type in ped model /;/player feature|_|Schreibe (ped)
+Spawn a ped /;/player feature|_|Spawne einen (ped)
+Car godmode /;/player feature|_|Fahrzeug Godmode
+Copy player's car /;/player feature|_|Kopiere Fahrzeug des Spielers
+Max car /;/player feature|_|Maximiere Fahrzeug
+Vehicle fly player /;/player feature|_|Fahrzeug fliegen fuer Spieler
+Spastic car /;/player feature|_|spastisches Fahrzeug
+Max car loop /;/player feature|_|Maximiere Fahrzeug Loop
+Repair car loop /;/player feature|_|Repariere Fahrzeug Loop
+What vehicle to spawn /;/player feature|_|Welches Fahrzeug zum spawnen
+Spawn vehicle /;/player feature|_|Spawne Fahrzeug
+Teleport player & vehicle to waypoint /;/player feature|_|Teleportiere Spieler & Fahrzeug zum Wegpunkt
+Teleport player & vehicle to you /;/player feature|_|Teleportiere Spieler & Fahrzeug zu dir
+Disable vehicles /;/player feature|_|Deaktiviere Fahrzeuge
+Off the radar /;/player feature|_|Vom Radar verschwunden
+10k ceo loop /;/player feature|_|10K CEO loop
+Block passive mode /;/player feature|_|Blockiere Passivmodus
+apply bounty /;/player feature|_|Kopfgeld anwenden
+Reapply bounty /;/player feature|_|Kopfgeld wiederholt anwenden
+Perico island /;/player feature|_|Perico Insel
+Apartment invites /;/player feature|_|Wohnungseinladungen
+Send to random mission /;/player feature|_|Schicke zu zufaelliger Mission
+Terminate CEO /;/player feature|_|Kuendige CEO
+Transaction error /;/player feature|_|Transaktionsfehler
+Which vehicle /;/player feature|_|Welches Fahrzeug
+Ram player with vehicle /;/player feature|_|Ramm Spieler mit Fahrzeug
+Ram loop /;/player feature|_|Ramm Loop
+Spawn kek's chopper /;/player feature|_|Spawne kek's Hubschrauber
+Hurricane /;/player feature|_|Hurrikan
+Vehicle gun /;/player feature|_|Fahrzeugwaffe
+Delete gun /;/player feature|_|Loeschwaffe
+Explosion gun /;/player feature|_|Explosive Waffe
+Copy rid to clipboard /;/player feature|_| Kopiere RID in Zwischenablage
+Copy position with decimals to clipboard /;/player feature|_|Kopiere Postition mit Dezimalstellen in Zwischenablage
+Copy position without decimal to clipboard /;/player feature|_|Kopiere Postition ohne Dezimalstellen in Zwischenablage
+Copy ip to clipboard /;/player feature|_|Kopiere IP in Zwischenablage
+Save all their stats to file /;/player feature|_|Speichere alle Stats in Datei
+was set as the default language. /;/msg|_|wurde als standard Sprache Festgelegt
+This language file is outdated, please update it. /;/msg|_|Sprachdatei ist veraltet, bitte aktualisiere sie
+You're missing a file in kekMenuLibs. Please reinstall Kek's menu. /;/msg|_|Es fehlt eine Datei in kekMenuLibs. Bitte installiere Kek's menu neu
+There's a library file which is the wrong version, please reinstall kek's menu. /;/msg|_|Eine Datei in Kek's menu hat eine falsche Version. Bitte installiere Kek's menu neu
+Something was wrong with the profiles names. Names set to default. /;/msg|_|Es gab einen Fehler mit den Profilnamen. Namen wurden zurueckgesetzt.
+Kek's menu /;/msg|_|Kek's menu
+Turned off script loader /;/msg|_|Schalte Skriptlader aus
+Turned on script loader /;/msg|_|Schalte Skriptlader an
+Emptied script loader /;/msg|_|Leere Skriptlader
+Added /;/msg|_|Erfolgreich
+to script loader /;/msg|_|zum Skriptlader hinzugefuegt
+is already in the script loader /;/msg|_|ist bereits im Skriptlader
+Couldn't find file /;/msg|_|Konnte Datei nicht finden
+Removed /;/msg|_|Erfolgreich
+from script loader /;/msg|_|vom Skriptlader entfernt
+autoexec doesn't exist /;/msg|_|autoexec existiert nicht
+Chat judge:\nBounty set on /;/msg|_|Chat Richter:\nSetze Kopfgeld
+Chat judge:\nRamming /;/msg|_|Chat Richter:\nRammen
+with explosive tankers /;/msg|_|mit explosiven Tankern
+Chat judge:\nKicking player out of their vehicle. /;/msg|_|Chat Richter:\nAus Fahrzeug kicken
+Chat judge:\nKicking /;/msg|_|Chat Richter:\nKicken
+Chat judge\nCrashing /;/msg|_|Chat Richter:\nCrashen
+sent vote kick. Kicking them... /;/msg|_|stimmt für einen Rauswurf gegen dich ab. Kick einleiten...
+tried to crash you. /;/msg|_|hat versucht dich zu crashen
+How many modded stat detections are needed to tag them as modder /;/msg|_|Wie viele gemoddete Stats muessesn erkannt werden damit der Spieler als Modder markiert wird
+Minor detections are 1 in severity, severe ones like modded name, are 3. /;/msg|_|Kleinere Erkennungen haben einen Schweregrad von 1, schwere wie gemoddeter Name sind 3.
+has: /;/msg|_|hat:
+severity: /;/msg|_|schwere:
+has a modded scid. /;/msg|_|hat eine gemoddete scid.
+has a modded name. /;/msg|_|hat einen gemoddeten Namen.
+Recognized /;/msg|_|wiedererkannt
+\nDetected: /;/msg|_|\nErkannte:
+\nTags:\n /;/msg|_|\nTags:\n
+Checked lobby for suspicious stats /;/msg|_|Lobby wurde auf verdaechtige Stats ueberprueft
+Checked blacklist. /;/msg|_|Blacklist wurde ueberprueft.
+is spectating /;/msg|_|beobachtet
+was off the radar for too long. /;/msg|_|war zu lange vom Radar verschwunden.
+Changed the reason this person was added to the blacklist. /;/msg|_|Grund warum dieser Spieler zur Blackist hinzugefuegt wurde, wurde geandert.
+Added to blacklist. /;/msg|_|Zur Blacklist hinzugefuegt.
+Removed rid. /;/msg|_|RID entfernt
+Couldn't find player. /;/msg|_|Konnte Spieler nicht finden.
+Blacklist file doesn't exist. /;/msg|_|Blacklistdatei existiert nicht.
+You can't add yourself to the blacklist... /;/msg|_|Du kannst dich nicht selbst zur Blacklist hinzufuegen...
+Rid is too short / invalid. /;/msg|_|RID ist zu kurz / ungueltig.
+Session is empty... /;/msg|_|Siztung ist leer...
+players to the blacklist.\nChanged reasons for /;/msg|_|Spieler zur Blacklist hinzugefuegt.\nGrund geandert fuer
+people already in the blacklist /;/msg|_|Spieler bereits in der Blacklist
+Removed session from the blacklist. /;/msg|_|Sitzung wurde von Blacklist entfernt
+Successfully obtained host. /;/msg|_|Erfolgreich Host erhalten
+Force host:\nHost is your friend! Cancelled host attempt. /;/msg|_|Host erzwingen:\nHost ist dein Freund! Versuch abgebrochen.
+Force host:\nHost is invalid, pausing host attempt until valid target. /;/msg|_|Host erzwingen:\nHost ist ungueltig, pausiere Versuch bis es ein gueltiges Ziel gibt.
+Kicking /;/msg|_|Kicken
+, flags:\n /;/msg|_|, Markierungen:\n
+Input too short. /;/msg|_|Eingabe ist zu kurz.
+Entry is too short. /;/msg|_|Eintrag ist zu kurz.
+Invalid entry. /;/msg|_|ungueltiger Eintrag.
+Couldn't find entry. /;/msg|_|konnte Eintrag nicht finden.
+Emptied vehicle blacklist. /;/msg|_|Fahrzeug Blacklist wurde geleert.
+Vehicle blacklist:\nEMP'd /;/msg|_|Fahrzeug Blacklist:\nEMP'd Spieler
+Vehicle blacklist:\nKicked /;/msg|_|Fahrzeug Blacklist:\nKicked
+Vehicle blacklist:\nExploding /;/msg|_|Fahrzeug Blacklist:\nExplodieren
+out of their /;/msg|_|aus ihrem
+Vehicle blacklist:\nRamming /;/msg|_|Fahrzeug Blacklist:\nRammen
+Vehicle blacklist:\nCrashed /;/msg|_|Fahrzeug Blacklist:\nCrashen
+for using /;/msg|_|fuer das benutzen von
+Copied /;/msg|_|Kopierte
+to clipboard. /;/msg|_|in die Zwischenablage
+Player isn't in a vehicle. /;/msg|_|Spieler ist nicht in einem Fahrzeug.
+Cars spawned. /;/msg|_|Fahrzeuge gespawnt
+Maxed everyone's cars. /;/msg|_|Fahrzeuge aller Spieler maximiert.
+Please set a waypoint. /;/msg|_|Bitte setze einen Wegpunkt.
+You're already host! /;/msg|_|Du bist bereits Host!
+Entry is already in there! /;/msg|_|Eintrag ist bereits vorhanden!
+Emptied. /;/msg|_|Geleert
+Cancelled. /;/msg|_|Abgebrochen
+Successfully added entry. /;/msg|_|Eintrag erfolgreich hinzugefuegt.
+Entry was already added. /;/msg|_|Eintrag wurde bereits hinzugefuegt.
+Removed entry. /;/msg|_|Entferne Eintrag
+Removed all entries. /;/msg|_|Alle Eintraege entfernt.
+Disconnect attempt failed. Attempting method 2... /;/msg|_|Trennungsversuch fehlgeschlagen. Versuche zweite Methode...
+The game will freeze, just wait 10 seconds. /;/msg|_|Das Spiel wird einfrieren, warte einfach 10 Sekunden
+is not in a vehicle. /;/msg|_|ist nicht in einem Fahrzeug.
+is too far away. /;/msg|_|ist zu weit weg.
+No vehicle to copy. /;/msg|_|Kein Fahrzeug zum kopieren vorhanden.
+Maxed /;/msg|_|Maximiert
+vehicle. /;/msg|_|Fahrzeug.
+Failed to get control of their car. /;/msg|_|Erhalten von Kontrolle ueber das Fahrzeug fehlgeschlagen.
+Changed default vehicle. /;/msg|_|Standard Fahrzeug geaendert.
+Invalid input. Default value remains the same. /;/msg|_|Ungueltige Eingabe. Der Standardwert bleibt gleich.
+Invalid input. Plate text remains the same. /;/msg|_|Ungueltige Eingabe. Der Kennzeichen bleibt gleich.
+Changed default plate text. /;/msg|_|Standard Kennzeichentext geaendert.
+No need to teleport yourself to yourself. /;/msg|_|Du musst dich nicht zu dir selbst teleportieren.
+Modded bounties does not work while you're script host. /;/msg|_|Gemoddete Kopfgelder funktionieren nicht, während du Skript Host bist.
+Their position is unknown (invalid Z coordinate). Please get closer to them. /;/msg|_|Spielerposition ist unbekannt (ungültige Z-Koordinate). Bitte gehe naeher zum Spieler.
+Invalid object. /;/msg|_|ungueltiges Objekt
+1: Vehicles\n2: Peds\n3: Objects\n4: Pickups\n5: Peds & Vehicles\n6: All /;/msg|_|1: Fahrzeuge \n2: NPCs/Tiere \n3: Objekte \n4: Pickups \n5: NPCs/Tiere & Fahrzeuge \n6: Alle
+This model is called: /;/msg|_|Dieses Model heisst:
+Saved their stats to a file. /;/msg|_|Daten des Spielers wurden in Datei gespeichert.
+Hotkey:\nTurned on /;/msg|_|Hotkey:\nEingeschaltet
+Hotkey:\nTurned off /;/msg|_|Hotkey:\nAusgeschaltet
+Hotkey:\nMaxed vehicle. /;/msg|_|Hotkey:\nFahrzeug maximiert.
+Hotkey:\nSpawned vehicle. /;/msg|_|Hotkey:\nFahrzeug gespawnt.
+Hotkey:\nRepaired vehicle. /;/msg|_|Hotkey:\nFahrzeug repariert.
+vehicle fly. /;/msg|_|Fliegendes Fahrzeug
+vehicle gun. /;/msg|_|Fahrzeug Waffe
+airstrike gun. /;/msg|_|Luftschlag Waffe
+Clear entity type. /;/msg|_|Typ der Entitaet löschen
+Hotkey:\nTagged non modders & untagged modders with manual tag. /;/msg|_|Hotkey:\nTagged Nicht-Modder & Modder ohne Tag mit manuellem Tag.
+Hotkey:\nDisconnected you from session. /;/msg|_|Hotkey:\nVon der Sitzung getrennt.
+Hotkey:\nIncreased vehicle fly speed. /;/msg|_|Hotkey:\nGeschwindigkeit vom fliegenden Fahrzeug erhöht.
+Hotkey:\nDecreased vehicle fly speed. /;/msg|_|Hotkey:\nGeschwindigkeit vom fliegenden Fahrzeug gesenkt.
+Successfully changed keybinding.\nType nil to turn it off. /;/msg|_|Tastenkombination erfolgreich geaendert.\n gib nil ein zum ausschalten.
+Turned off the keybinding:\n\" /;/msg|_|Tastenkombination ausgeschaltet:\n\
+Keybinding not changed. Empty input or input is the same as existing keybinding. /;/msg|_|Tastenkombination nicht geaendert. Eingabe oder leer entspricht der vorhandenen Tastenkombination.
+Invalid keybinding.\nIt's case sensitive, get it right. /;/msg|_|ungueltige Tastenkombination.\nGross- und Kleinschreibung ist wichtig, versuche es nochmal.
+Most of the keys like, left shift. are written in all caps. Example: LSHIFT. /;/msg|_|Die meisten Tasten wie linke shift Taste werden komplett gross geschrieben. Beispiel: LSHIFT.
+Settings saved! /;/msg|_|Einstellungen gespeichert!
+Successfully loaded /;/msg|_|Erfolgreich geladen
+The setting file doesn't exist.\nPlease save to this slot in order to use it. /;/msg|_|Diese Einstellung existiert nicht. /nBitte speichere eine Einstellung in diesem Slot um sie benutzen zu können.
+Saved /;/msg|_|Gespeichert
+Invalid name. /;/msg|_|Ungueltiger Name.
+Saved profile name. /;/msg|_|Profilname gespeichert.
+Failed to save profile name. /;/msg|_|Speichern von Profilnamen fehlgeschlagen.
+Successfully loaded Kek's menu. /;/msg|_|Kek's menu wurde erfolgreich geladen.
+Type in what car to use /;/input_does_not_support_unicode|_|Gib ein welches Fahrzeug du benutzen willst
+Type in the name of the lua script to add. /;/input_does_not_support_unicode|_|Gib ein welches Skript du hinzufuegen willst.
+Type in the lua script you want to remove. /;/input_does_not_support_unicode|_|Gib ein welches Skript du entfernen willst.
+Type in why you're adding this person. Typing in nothing makes the reason: Manually added. /;/input_does_not_support_unicode|_|Gib ein warum du diesen Spieler hinzufuegst. Keine Eingabe macht den Grund: Manually added.
+Type in social club ID, also known as: rid / scid. /;/input_does_not_support_unicode|_|Gib social club ID ein, auch bekannt als rid /scid.
+Type in ip. /;/input_does_not_support_unicode|_|Gib IP ein
+Type in the why you're adding this person. Typing in nothing makes the reason: Manually added. /;/input_does_not_support_unicode|_|
+Type in the why you're adding everyone. Typing in nothing makes the reason: Manually added. /;/input_does_not_support_unicode|_|Gib ein warum du alle Spieler hinzufuegst. Keine Eingabe macht den Grund: Manually added.
+Type in ram speed /;/input_does_not_support_unicode|_|Gib Rammgeschwindigkeit ein.
+Type in history limit. /;/input_does_not_support_unicode|_|Gib Verlaufslimit ein.
+Type in what player you wanna search for. rid / name / ip /;/input_does_not_support_unicode|_|Gib ein nach welchem Spieler du suchen willst. RID / Name / IP
+Type in what to add. /;/input_does_not_support_unicode|_|Gib ein was du hinzufuegen willst.
+Type in what reaction. NUMBER, 0 to 8 /;/input_does_not_support_unicode|_|Gib ein welche Reaktion. NUMMER, 0 bis 8
+Type in what to remove. /;/input_does_not_support_unicode|_|Gib ein was du Entfernen willst.
+Type in which car to ram people with. /;/input_does_not_support_unicode|_|Gib ein mit welchem Fahrzeug du Spieler rammen willst.
+Type in which car to spawn /;/input_does_not_support_unicode|_|Gib ein welches Fahrzeug du spawnen willst
+Type in part /;/input_does_not_support_unicode|_|Gib Teil des Textes ein.
+of the text. All of these will be merged into one text. /;/input_does_not_support_unicode|_|Alles wird zu einem Text zusammengeführt.
+Type in echo delay. /;/input_does_not_support_unicode|_|Gib die Echoverzoegerung ein.
+Type in what the bot will react to. /;/input_does_not_support_unicode|_|Gib ein zu was der Bot reagieren soll.
+Type in what the bot will say to what you previously typed in. /;/input_does_not_support_unicode|_|Gib ein was der Bot zu dem was du eben eingegeben hast sagen soll.
+Type in answer delay. /;/input_does_not_support_unicode|_|Gib die Antwortverzoegerung ein.
+Type in the name of the ped you want to spawn. /;/input_does_not_support_unicode|_|Gib den Namen vom NPC/Tier ein welches du spawnen willst.
+Type in the vehicle you want to be default. /;/input_does_not_support_unicode|_|Gib ein welches Fahrzeug du als Standard haben willst.
+Type in the text you want displayed on the backplate of your cars after maxing them. /;/input_does_not_support_unicode|_|Gib den Text ein den du nach dem ugraden des Fahrzeuges auf dem Nummernschild haben willst.
+Type in vehicle speed /;/input_does_not_support_unicode|_|Gib Fahrzeuggeschwindigkeit ein
+Type in which car to ram with /;/input_does_not_support_unicode|_|Gib ein mit welchem Fahrzeug gerammt werden soll
+Type in what object to use. /;/input_does_not_support_unicode|_|Gib ein welches Objekt benutzt werden soll.
+Type in which car to use for vehicle stuff. /;/input_does_not_support_unicode|_|Gib ein welches Auto fuer Fahrzeug kram benutzt werden soll.
+Type in what you want the keybinding to be. /;/input_does_not_support_unicode|_|Gib ein welche Tastenkombination es sein soll.
+Type in the name of the profile. /;/input_does_not_support_unicode|_|Gib den Namen des Profils ein.
+Log: /;/setting|_|Protokollieren
+Kick: /;/setting|_|Kicken
+Unmark: /;/setting|_|Modder Makierung Entfernen
+Max vehicle /;/hotkey|_|Fahrzeug maximieren
+Spawn vehicle /;/hotkey|_|Fahrzeug spawnen
+Repair vehicle /;/hotkey|_|Fahrzeug reparieren
+Vehicle fly /;/hotkey|_| Fahrzeug Fliegen
+Vehicle gun /;/hotkey|_|Fahrzeugwaffe
+Airstrike gun /;/hotkey|_|Luftschlagwaffe
+Change vehicle used for vehicle stuff /;/hotkey|_|Aner
+Tag / untag session /;/hotkey|_|Tag / untag Sitzung
+Disconnect from session /;/hotkey|_|Von Siztung trennen
+Clear entity type /;/hotkey|_|Leere Entitaetentyp
+Increase vehicle fly speed /;/hotkey|_|Erhoehe Geschwindigkeit vom Fahrzeugfliegen
+Decrease vehicle fly speed /;/hotkey|_|Senke Geschwindigkeit vom Fahrzeugfliegen
+Hotkeys /;/setting|_|Hotkeys
+Chat judge:\nBlaming /;/feature|_|Chat Richter:\nBeschuldigen
+for killing session. /;/feature|_|fuer das toeten der Siztung
+Lag session /;/feature|_|Sitzung laggen lassen
+Lag player /;/player feature|_|Bringer Spieler zum laggen
+Taze player /;/player feature|_|Spieler tazern
+Perma-cage /;/player feature|_|Permanenter Kaefig
+Give player vehicle fly /;/player feature|_|Gib Spieler Fahrzeugfliegen
+No available seat. /;/msg|_|kein verfuegbarer Sitzplatz.
+Ped crash /;/player feature|_|Ped Crash
+Finished crash. /;/msg|_|Crash abgeschlossen.
+You can't use this on yourself. /;/msg|_|Du kannst das nicht bei dir selbst machen.
+Exclude friends from attacks /;/feature|_|Schliesse Freunde vor Angriffen aus
+Auto tag modders after sending kick /;/feature|_|Markiere Spieler nach senden eines kicks automatisch
+Doesn't work while they're on Perico island. /;/msg|_|Funktioniert nicht waehrend der Spieler auf Perico Island ist.
+tried to send an entity spam crash on you. /;/feature|_|hat versucht dich mit einem Entitaeten spam zu crashen.
+Too many peds are spawned. Please clear the peds in the area. /;/player feature|_|Es wurden zu viele NPCs/Tiere gespawnt. Bitte Leere die NPCs/Tiere in der Umgebung
+Hotkeys /;/setting|_|Hotkeys
+Chat judge:\nBlaming /;/feature|_|Chat Richter:\nBeschuldigen
+for killing session. /;/feature|_|fuer das toeten der Sitzung
+Glitch their vehicle /;/player feature|_|Fahrzeug Glitchen lassen
+6 = Glitch their vehicle\n7 = Kick\n8 = Crash\n0 = random reaction(not kick or crash) /;/msg|_|6 = Fahrzeug glitchen lassen\n7 = Kicken\n8 = Crashen\n0 = zufaellige Reaktion(Kick und crash ausgenommen)
+Vehicle blacklist:\nGlitching /;/msg|_|Fahrzeug Blacklist
+Lag player /;/player feature|_|Spieler laggen lassen
+Taze player /;/player feature|_|Spieler Tazern
+Perma-cage /;/player feature|_|Permanenter Kaefig
+Give player vehicle fly [horn toggles it] /;/player feature|_|Gib Spieler fliegendes Fahrzeug [Hupe zum an/ausschalten]
+Exclude friends from attacks /;/feature|_|Schließe Freunde von Angriffen aus
+Auto tag modders after sending kick /;/feature|_|Makiere Modder nach senden eines kicks automatisch
+Self options /;/parent|_|Selbstoptionen
+Max all weapons /;/feature|_|Maximiere alle Waffen
+Randomize all weapons /;/feature|_|Zufaellige Waffen
+Give all weapons /;/feature|_|Gib alle Waffen
+Max current weapon /;/feature|_|Maximiere derzeitige Waffe
+Randomize current weapon /;/feature|_|Wechsel zu einer zufaelligen Waffe
+You're not holding a weapon. /;/msg|_|Du haelst keine Waffe.
+Random weapon camo /;/feature|_|Zufaellige Waffentarnung
+Has a lot of money & low rank. /;/msg|_|Hat seht viel Geld und einen niedrigen Rang.
+Has too much money for the rank. /;/msg|_|Hat zu viel Geld fuer den Rang.
+Has a lot of money. /;/msg|_|Hat sehr viel Geld.
+Has Negative lvl /;/msg|_|Hat ein negatives Level.
+Has Negative k/d /;/msg|_|Hat eine negative K/D.
+Has a high rank. /;/msg|_|Hat einen hohen Rang.
+Has a high k/d. /;/msg|_|Hat eine hohe K/D.
+Has modded armor. /;/msg|_|Hat gemoddete Ruestung.
+Has too many wins. /;/msg|_|Hat zu viele Siege.
+Block areas /;/parent|_|Blockiere Gebiete
+Block all los santos customs /;/feature|_|Blocke all Los Santos Customs
+Block all Ammu-Nations /;/feature|_|Blocke alle Ammu-Nations
+Block casino /;/feature|_|Blocke das Casino
+Teleport player far away /;/player feature|_|Teleportiere Spieler weit weg
+Found player you were trying to add in your session. Added all their info. /;/msg|_|Spieler den du in deiner Sitzung hinzufuegen wolltest, wurde gefunden. Alle Infos des Spielers wurden hinzugefuegt.
+Rid /;/msg|_|RID
+IP /;/msg|_|IP
+Name /;/msg|_|Name
+Successfully gave /;/msg|_|Erfolgreich gegeben:
+vehicle /;/msg|_|Fahrzeug
+godmode. /;/msg|_|Godmode
+Failed to get control of /;/msg|_|Erhalten von Kontrolle fehlgeschlagen bei 
+Set controller hotkeys /;/feature|_|Set controller hotkeys
+Press key to set to hotkey.\nTo turn off hotkey, press f4. /;/msg|_|Druecke die Taste, die du als Hostkey benutzen willst.\nDruecke F4 um Hotkey auszuschalten.
+Turned off the hotkey:\n /;/msg|_|Hotkey ausgeschaltet:\n
+Invalid hotkey. Please try again. /;/msg|_|Ungueltiger Hotkey. Bitte versuche es erneut.
+In order to set hotkeys for controller, this has to be on first! /;/msg|_|Um Hotkeys für den Controller festzulegen, muss dies zuerst aktiviert sein!
+Changed /;/msg|_|Erfolgreich geandert:
+to /;/msg|_|zu:
+Turned off /;/feature|_|Ausgeschaltet:
+Hotkey:\nloaded /;/msg|_|Hotkey:\ngeladen
+Load profile /;/feature|_|Profil Laden
+Hotkey:\nRandomized current weapon. /;/msg|_|Hotkey:\nWechsel zu einer zufaelligen Waffe.
+Max kicks for auto host /;/feature|_|Maximiere kicks fuer auto Host
+Force host:\nCancelled. Requires to kick /;/msg|_|Force host:\nAbgebrochen. Es muessen
+people in order to get host. /;/msg|_|Spieler gekickt werden um Host zu erhalten.
+Your host priority is lower than theirs. Cancelled. /;/msg|_|Deine Host Prioritaet ist niedriger als die des Spielers. Abgebrochen.
+Give them host /;/player feature|_|Gib Spieler Host
+Type in clear distance limit. /;/input_does_not_support_unicode|_|Gib das Limit fuer die Fahrzeug Loeschdistanz an
+Vehicle clear distance /;/feature|_|Fahrzeug Loeschdistanz
+Ped clear distance /;/feature|_|NPC Loeschdistanz
+Object clear distance /;/feature|_|Objekt Loeschdistanz
+Pickup clear distance /;/feature|_|Pickup Loeschdistanz
+Dump world /;/player feature|_|Dumpe die Welt
+Send clown van /;/player feature|_|Schicke Clown Van
+Make nearby peds hostile /;/player feature|_|Mache alle Peds in der Naehe Feindlich
+Kick gun /;/player feature|_|Kick Waffe
+Kidnap player /;/player feature|_|Entfuehre Spieler
+Teleport nearby personal vehicles /;/feature|_|Teleportiere neben persoenliches Fahrzeug
+sent a modded script event. /;/msg|_|hat ein modifiziertes Skript Event gesendet
+Modded script event /;/feature|_|Modifiziertes Skript Event
+Backwards traffic /;/feature|_|Rueckwaerts Verkehr
+Swap nearby cars /;/feature|_|Tausche Fahrzeuge in der Naehe
+Notification spam /;/player feature|_|Spam-Benachrichtigungen
+Notification spam /;/feature|_|Spam-Benachrichtigungen
+Kidnap is already being used on another player. /;/msg|_|Entfuehrung wird bereits bei einem anderen Spieler verwendet.
+Host token /;/msg|_|Host Token
+Copy host token to clipboard /;/player feature|_|Kopiere Host Token in die Zwischenablage
+Script event crash /;/player feature|_|Skript Event Crash
+Brute force crash /;/player feature|_|Brute Force Crash
+This language file is outdated, please update it. You can still use it, no problem. /;/msg|_|Diese Sprachdatei ist veraltet, bitte aktualisiere sie. Du kannst sie trotzdem noch benutzen, nein Problem.
+One of the people further in host queue is your friend! Cancelled. /;/msg|_|Einer deiner Freunde ist vor dir in der Host reihenfolge! Abgebrochen.
+0 = random(not kick / crash)\n1 = Set bounty\n2 = Ram player\n3 = Kick from vehicle /;/msg|_|0 = zufaellig(Kick und crash ausgenommen)\n1 = Kopfgeld geben\n2 = Spieler rammen\n3 = Vom Fahrzeug kicken.
+4 = Blame kill lobby\n5 = Kick player\n6 = Crash player /;/msg|_|4 = Lobby toeten und Spieler beschuldigen\n5 = Spieler kicken\n6 = Spieler crashen
+1: Max cars\n2: Give godmode\n3: Repair cars\n4: Godmode & max\n5: Chaos mode /;/msg|_|1: Fahrzeuge maximieren\n2: Godmode geben\n3: Fahrzeuge reparieren\n4: Godmode & maximieren\n5: Chaos Modus
+Num of people, click to type, means how many people are shown in the player history. /;/msg|_|Anzahl der Spieler, klicke zum schreiben, bedeutet, wie viele Personen im Spielerverlauf angezeigt werden.
+The higher it is, the longer the freeze when reseting lua state becomes. Default value is safe. /;/msg|_|Je hoeher es ist, desto laenger wird das Einfrieren beim Zurücksetzen des Lua-Zustands. Der Standardwert ist sicher.
+1 = EMP\n2 = Kick out\n3 = Kick out & destroy personal vehicle\n4 = Explode\n5 = Ram with tankers /;/msg|_|1 = EMP\n2 = Rausschmeissen\n3 = Rausschmeissen & persoenliches Fahrzeug zerstören\n4 = Hochjagen\n5 = Mit Tankern rammen 
+6 = Kick\n7 = Crash\n0 = random reaction(not kick or crash) /;/msg|_|6 = Kicken\n7 = Crashen\n0 = zufaellige Reaktion(Kick und crash ausgenommen)
+Modified reaction in existing entry. /;/msg|_|Reaktion im vorhandenen Eintrag wurde geandert.
+Nothing was changed, same reaction as it previously was. /;/msg|_|Es wurde nichts geandert, die Reaktion is die gleiche wie davor.
+Type in their name. /;/input_does_not_support_unicode|_|Gib den Namen des Spielers ein.
+Type in what the text the bot reacts to in the entry you wish to remove. /;/input_does_not_support_unicode|_|Gib ein welchen Text, auf den der Bot reagiert, du entfernen moechtest.

@@ -1,0 +1,453 @@
+§Version§ 0.3.9.1 /;/DO NOT CHANGE THIS VALUE|_|
+Kek's menu /;/parent|_|
+General settings /;/parent|_|
+Vehicle /;/parent|_|
+Self /;/parent|_|
+Vehicle peaceful /;/parent|_|
+Vehicle trolling /;/parent|_|
+Vehicle settings /;/parent|_|
+Vehicle blacklist /;/parent|_|
+Session malicious /;/parent|_|
+Player history /;/parent|_|
+Scripts /;/parent|_|
+Settings /;/parent|_|
+Chat /;/parent|_|
+Custom chat judger /;/parent|_|
+Chat bot /;/parent|_|
+Chat spamming /;/parent|_|
+Notification settings /;/parent|_|
+Hotkey settings /;/parent|_|
+Modder detection /;/parent|_|
+Blacklist /;/parent|_|
+What to do with modders /;/parent|_|
+Protections /;/parent|_|
+Modder logging settings /;/parent|_|
+Modder unmark settings /;/parent|_|
+Auto kick tag settings /;/parent|_|
+Which modder detections are on /;/parent|_|
+Weapons /;/parent|_|
+Kek's utilities /;/parent|_|
+Script loader /;/parent|_|
+Language configuration /;/parent|_|
+Kek's menu /;/player parent|_|
+Vehicle /;/player parent|_|
+Weapons /;/player parent|_|
+Trolling /;/player parent|_|
+Chat /;/player parent|_|
+Malicious /;/player parent|_|
+Player utilities /;/player parent|_|
+Blacklist /;/player parent|_|
+Scripts /;/player parent|_|
+Pedestrian /;/player parent|_|
+Set /;/feature|_|
+as default language. /;/feature|_|
+Invert all switches /;/feature|_|
+Toggle on / off script loader /;/feature|_|
+Empty script loader file /;/feature|_|
+Add script to auto loader /;/feature|_|
+Remove script from auto loader /;/feature|_|
+Modded stats, severity, click me /;/feature|_|
+Modded scid detection /;/feature|_|
+Modded name detection /;/feature|_|
+Modded net event detection /;/feature|_|
+Blacklist /;/feature|_|
+Check people's stats automatically /;/feature|_|
+Check everyone's stats /;/feature|_|
+Check if anyone is in the blacklist /;/feature|_|
+Detect any modded spectate /;/feature|_|
+Detect too long off the radar /;/feature|_|
+Kick any vote kickers /;/feature|_|
+Add player / modify reason they were added /;/feature|_|
+Remove player from blacklist /;/feature|_|
+Add session to blacklist /;/feature|_|
+Remove session from blacklist /;/feature|_|
+Get host automatically /;/feature|_|
+Log modders with selected tags to blacklist /;/feature|_|
+Auto kick modders with selected tags /;/feature|_|
+Auto unmark modders with selected tags /;/feature|_|
+Ram vehicle speed /;/feature|_|
+Ram everyone /;/feature|_|
+Effect type, click me /;/feature|_|
+Apply effect to nearby vehicles /;/feature|_|
+Vehicle fly nearby vehicles /;/feature|_|
+Disable vehicles /;/feature|_|
+Vehicle storm /;/feature|_|
+Copy rid to clipboard /;/feature|_|
+Copy ip to clipboard /;/feature|_|
+Please click me for info /;/feature|_|
+Num of people, click to type /;/feature|_|
+Player history /;/feature|_|
+Clear searched player list /;/feature|_|
+Search (all players ever met) /;/feature|_|
+Add entry vehicle blacklist /;/feature|_|
+Remove entry vehicle blacklist /;/feature|_|
+Empty vehicle blacklist /;/feature|_|
+Vehicle blacklist only on selected players /;/feature|_|
+Vehicle blacklist /;/feature|_|
+What to ram people with /;/feature|_|
+Spawn vehicle for everyone /;/feature|_|
+Max everyone's car /;/feature|_|
+Teleport session to current position /;/feature|_|
+Teleport session to waypoint /;/feature|_|
+Get host /;/feature|_|
+Kick session /;/feature|_|
+Crash session /;/feature|_|
+Give session bounty /;/feature|_|
+Never wanted /;/feature|_|
+off the radar /;/feature|_|
+Reapply bounty /;/feature|_|
+Give 10k /;/feature|_|
+Block passive /;/feature|_|
+Send to random mission /;/feature|_|
+Perico island /;/feature|_|
+Apartment invites /;/feature|_|
+Ban CEO /;/feature|_|
+Dismiss CEO /;/feature|_|
+Terminate CEO /;/feature|_|
+Transaction error /;/feature|_|
+Add entry chat judger /;/feature|_|
+Remove entry chat judger /;/feature|_|
+Empty chat judge file /;/feature|_|
+What reaction, click me /;/feature|_|
+Custom chat judge /;/feature|_|
+Judge only selected players /;/feature|_|
+Spam speed, click to type /;/feature|_|
+Text to spam, type it in /;/feature|_|
+Grab text from clipboard(what u copied) /;/feature|_|
+Grab text from clipboard and send each line /;/feature|_|
+Grab text from file /;/feature|_|
+Random text from file /;/feature|_|
+Chat spammer /;/feature|_|
+Echo delay, click to type /;/feature|_|
+Echo chat /;/feature|_|
+Echo selected players only /;/feature|_|
+Add entry to chat bot /;/feature|_|
+Remove entry from chat bot /;/feature|_|
+Remove all entries from chatbot /;/feature|_|
+Answer delay chatbot /;/feature|_|
+Chat bot /;/feature|_|
+Disconnect from session /;/feature|_|
+Max car /;/feature|_|
+Max car loop /;/feature|_|
+Change default vehicle /;/feature|_|
+Change backplate text /;/feature|_|
+What vehicle to spawn /;/feature|_|
+Spawn vehicle /;/feature|_|
+Vehicle fly speed, click to type /;/feature|_|
+Vehicle fly /;/feature|_|
+Type in what object /;/feature|_|
+Object gun /;/feature|_|
+Airstrike gun /;/feature|_|
+What vehicle vehicle gun /;/feature|_|
+Vehicle gun /;/feature|_|
+Entity type, click me for info /;/feature|_|
+Clear entity type /;/feature|_|
+Shoot entity| get model name of entity /;/feature|_|
+Enable hotkeys /;/feature|_|
+Save settings to default /;/feature|_|
+1 = Load profile /;/feature|_|
+2 = Overwrite/save profile /;/feature|_|
+3 = Change profile name /;/feature|_|
+Add player / modify reason they were added /;/player feature|_|
+Remove player from blacklist /;/player feature|_|
+Ram vehicle speed /;/player feature|_|
+Script event crash /;/player feature|_|
+Brute force crash /;/player feature|_|
+Kick player /;/player feature|_|
+Vehicle blacklist on this player /;/player feature|_|
+Get model name of their car to clipboard /;/player feature|_|
+Chat judge this player /;/player feature|_|
+Echo this player /;/player feature|_|
+Type in ped model /;/player feature|_|
+Spawn a ped /;/player feature|_|
+Car godmode /;/player feature|_|
+Copy player's car /;/player feature|_|
+Max car /;/player feature|_|
+Vehicle fly player /;/player feature|_|
+Spastic car /;/player feature|_|
+Max car loop /;/player feature|_|
+Repair car loop /;/player feature|_|
+What vehicle to spawn /;/player feature|_|
+Spawn vehicle /;/player feature|_|
+Teleport player & vehicle to waypoint /;/player feature|_|
+Teleport player & vehicle to you /;/player feature|_|
+Disable vehicles /;/player feature|_|
+Off the radar /;/player feature|_|
+10k ceo loop /;/player feature|_|
+Block passive mode /;/player feature|_|
+apply bounty /;/player feature|_|
+Reapply bounty /;/player feature|_|
+Perico island /;/player feature|_|
+Apartment invites /;/player feature|_|
+Send to random mission /;/player feature|_|
+Terminate CEO /;/player feature|_|
+Transaction error /;/player feature|_|
+Which vehicle /;/player feature|_|
+Ram player with vehicle /;/player feature|_|
+Ram loop /;/player feature|_|
+Spawn kek's chopper /;/player feature|_|
+Hurricane /;/player feature|_|
+Vehicle gun /;/player feature|_|
+Delete gun /;/player feature|_|
+Explosion gun /;/player feature|_|
+Copy rid to clipboard /;/player feature|_|
+Copy position with decimals to clipboard /;/player feature|_|
+Copy position without decimal to clipboard /;/player feature|_|
+Copy ip to clipboard /;/player feature|_|
+Save all their stats to file /;/player feature|_|
+was set as the default language. /;/msg|_|
+This language file is outdated, please update it. You can still use it, no problem. /;/msg|_|
+You're missing a file in kekMenuLibs. Please reinstall Kek's menu. /;/msg|_|
+There's a library file which is the wrong version, please reinstall kek's menu. /;/msg|_|
+Something was wrong with the profiles names. Names set to default. /;/msg|_|
+Kek's menu /;/msg|_|
+Turned off script loader /;/msg|_|
+Turned on script loader /;/msg|_|
+Emptied script loader /;/msg|_|
+Added /;/msg|_|
+to script loader /;/msg|_|
+is already in the script loader /;/msg|_|
+Couldn't find file /;/msg|_|
+Removed /;/msg|_|
+from script loader /;/msg|_|
+autoexec doesn't exist /;/msg|_|
+Chat judge:\nBounty set on /;/msg|_|
+Chat judge:\nRamming /;/msg|_|
+with explosive tankers /;/msg|_|
+Chat judge:\nKicking player out of their vehicle. /;/msg|_|
+Chat judge:\nKicking /;/msg|_|
+Chat judge\nCrashing /;/msg|_|
+sent vote kick. Kicking them... /;/msg|_|
+How many modded stat detections are needed to tag them as modder /;/msg|_|
+Minor detections are 1 in severity, severe ones like modded name, are 3. /;/msg|_|
+has: /;/msg|_|
+severity: /;/msg|_|
+has a modded scid. /;/msg|_|
+has a modded name. /;/msg|_|
+Recognized /;/msg|_|
+\nDetected: /;/msg|_|
+\nTags:\n /;/msg|_|
+Checked lobby for suspicious stats /;/msg|_|
+Checked blacklist. /;/msg|_|
+is spectating /;/msg|_|
+was off the radar for too long. /;/msg|_|
+Changed the reason this person was added to the blacklist. /;/msg|_|
+Added to blacklist. /;/msg|_|
+Removed rid. /;/msg|_|
+Couldn't find player. /;/msg|_|
+Blacklist file doesn't exist. /;/msg|_|
+You can't add yourself to the blacklist... /;/msg|_|
+Rid is too short / invalid. /;/msg|_|
+Session is empty... /;/msg|_|
+players to the blacklist.\nChanged reasons for /;/msg|_|
+people already in the blacklist /;/msg|_|
+Removed session from the blacklist. /;/msg|_|
+One of the people further in host queue is your friend! Cancelled. /;/msg|_|
+Kicking /;/msg|_|
+, flags:\n /;/msg|_|
+1: Max cars\n2: Give godmode\n3: Repair cars\n4: Godmode & max\n5: Chaos mode /;/msg|_|
+Num of people, click to type, means how many people are shown in the player history. /;/msg|_|
+The higher it is, the longer the freeze when reseting lua state becomes. Default value is safe. /;/msg|_|
+Input too short. /;/msg|_|
+Entry is too short. /;/msg|_|
+1 = EMP\n2 = Kick out\n3 = Kick out & destroy personal vehicle\n4 = Explode\n5 = Ram with tankers /;/msg|_|
+Modified reaction in existing entry. /;/msg|_|
+Nothing was changed, same reaction as it previously was. /;/msg|_|
+Invalid entry. /;/msg|_|
+Couldn't find entry. /;/msg|_|
+Emptied vehicle blacklist. /;/msg|_|
+Vehicle blacklist:\nEMP'd /;/msg|_|
+Vehicle blacklist:\nKicked /;/msg|_|
+Vehicle blacklist:\nExploding /;/msg|_|
+out of their /;/msg|_|
+Vehicle blacklist:\nRamming /;/msg|_|
+Vehicle blacklist:\nCrashed /;/msg|_|
+for using /;/msg|_|
+Copied /;/msg|_|
+to clipboard. /;/msg|_|
+Player isn't in a vehicle. /;/msg|_|
+Cars spawned. /;/msg|_|
+Maxed everyone's cars. /;/msg|_|
+Please set a waypoint. /;/msg|_|
+Entry is already in there! /;/msg|_|
+Emptied. /;/msg|_|
+0 = random(not kick / crash)\n1 = Set bounty\n2 = Ram player\n3 = Kick from vehicle /;/msg|_|
+4 = Blame kill lobby\n5 = Kick player\n6 = Crash player /;/msg|_|
+Cancelled. /;/msg|_|
+Successfully added entry. /;/msg|_|
+Entry was already added. /;/msg|_|
+Removed entry. /;/msg|_|
+Removed all entries. /;/msg|_|
+Disconnect attempt failed. Attempting method 2... /;/msg|_|
+The game will freeze, just wait 10 seconds. /;/msg|_|
+is not in a vehicle. /;/msg|_|
+No vehicle to copy. /;/msg|_|
+Maxed /;/msg|_|
+vehicle. /;/msg|_|
+Failed to get control of their car. /;/msg|_|
+Changed default vehicle. /;/msg|_|
+Invalid input. Default value remains the same. /;/msg|_|
+Invalid input. Plate text remains the same. /;/msg|_|
+Changed default plate text. /;/msg|_|
+No need to teleport yourself to yourself. /;/msg|_|
+Modded bounties does not work while you're script host. /;/msg|_|
+Their position is unknown (invalid Z coordinate). Please get closer to them. /;/msg|_|
+Invalid object. /;/msg|_|
+1: Vehicles\n2: Peds\n3: Objects\n4: Pickups\n5: Peds & Vehicles\n6: All /;/msg|_|
+This model is called: /;/msg|_|
+Saved their stats to a file. /;/msg|_|
+Hotkey:\nTurned on /;/msg|_|
+Hotkey:\nTurned off /;/msg|_|
+Hotkey:\nMaxed vehicle. /;/msg|_|
+Hotkey:\nSpawned vehicle. /;/msg|_|
+Hotkey:\nRepaired vehicle. /;/msg|_|
+vehicle fly. /;/msg|_|
+vehicle gun. /;/msg|_|
+airstrike gun. /;/msg|_|
+Clear entity type. /;/msg|_|
+Hotkey:\nTagged non modders & untagged modders with manual tag. /;/msg|_|
+Hotkey:\nDisconnected you from session. /;/msg|_|
+Hotkey:\nIncreased vehicle fly speed. /;/msg|_|
+Hotkey:\nDecreased vehicle fly speed. /;/msg|_|
+Turned off the keybinding:\n\" /;/msg|_|
+Keybinding not changed. Empty input or input is the same as existing keybinding. /;/msg|_|
+Invalid keybinding.\nIt's case sensitive, get it right. /;/msg|_|
+Most of the keys like, left shift. are written in all caps. Example: LSHIFT. /;/msg|_|
+Settings saved! /;/msg|_|
+Successfully loaded /;/msg|_|
+The setting file doesn't exist.\nPlease save to this slot in order to use it. /;/msg|_|
+Saved /;/msg|_|
+Invalid name. /;/msg|_|
+Saved profile name. /;/msg|_|
+Failed to save profile name. /;/msg|_|
+Successfully loaded Kek's menu. /;/msg|_|
+Type in what car to use /;/input_does_not_support_unicode|_|
+Type in the name of the lua script to add. /;/input_does_not_support_unicode|_|
+Type in the lua script you want to remove. /;/input_does_not_support_unicode|_|
+Type in why you're adding this person. Typing in nothing makes the reason: Manually added. /;/input_does_not_support_unicode|_|
+Type in social club ID, also known as: rid / scid. /;/input_does_not_support_unicode|_|
+Type in ip. /;/input_does_not_support_unicode|_|
+Type in their name. /;/input_does_not_support_unicode|_|
+Type in the why you're adding everyone. Typing in nothing makes the reason: Manually added. /;/input_does_not_support_unicode|_|
+Type in ram speed /;/input_does_not_support_unicode|_|
+Type in history limit. /;/input_does_not_support_unicode|_|
+Type in what player you wanna search for. rid / name / ip /;/input_does_not_support_unicode|_|
+Type in what to add. /;/input_does_not_support_unicode|_|
+Type in what reaction. NUMBER, 0 to 8 /;/input_does_not_support_unicode|_|
+Type in what to remove. /;/input_does_not_support_unicode|_|
+Type in which car to ram people with. /;/input_does_not_support_unicode|_|
+Type in which car to spawn /;/input_does_not_support_unicode|_|
+Type in part /;/input_does_not_support_unicode|_|
+of the text. All of these will be merged into one text. /;/input_does_not_support_unicode|_|
+Type in echo delay. /;/input_does_not_support_unicode|_|
+Type in what the bot will react to. /;/input_does_not_support_unicode|_|
+Type in what the bot will say to what you previously typed in. /;/input_does_not_support_unicode|_|
+Type in what the text the bot reacts to in the entry you wish to remove. /;/input_does_not_support_unicode|_|
+Type in answer delay. /;/input_does_not_support_unicode|_|
+Type in the name of the ped you want to spawn. /;/input_does_not_support_unicode|_|
+Type in the vehicle you want to be default. /;/input_does_not_support_unicode|_|
+Type in the text you want displayed on the backplate of your cars after maxing them. /;/input_does_not_support_unicode|_|
+Type in vehicle speed /;/input_does_not_support_unicode|_|
+Type in which car to ram with /;/input_does_not_support_unicode|_|
+Type in what object to use. /;/input_does_not_support_unicode|_|
+Type in which car to use for vehicle stuff. /;/input_does_not_support_unicode|_|
+Type in what you want the keybinding to be. /;/input_does_not_support_unicode|_|
+Type in the name of the profile. /;/input_does_not_support_unicode|_|
+Log: /;/setting|_|
+Kick: /;/setting|_|
+Unmark: /;/setting|_|
+Max vehicle /;/hotkey|_|
+Spawn vehicle /;/hotkey|_|
+Repair vehicle /;/hotkey|_|
+Vehicle fly /;/hotkey|_|
+Vehicle gun /;/hotkey|_|
+Airstrike gun /;/hotkey|_|
+Change vehicle used for vehicle stuff /;/hotkey|_|
+Tag / untag session /;/hotkey|_|
+Disconnect from session /;/hotkey|_|
+Clear entity type /;/hotkey|_|
+Increase vehicle fly speed /;/hotkey|_|
+Decrease vehicle fly speed /;/hotkey|_|
+Hotkeys /;/setting|_|
+Chat judge:\nBlaming /;/feature|_|
+for killing session. /;/feature|_|
+Glitch their vehicle /;/player feature|_|
+6 = Glitch their vehicle\n7 = Kick\n8 = Crash\n0 = random reaction(not kick or crash) /;/msg|_|
+Vehicle blacklist:\nGlitching /;/msg|_|
+Lag player /;/player feature|_|
+Taze player /;/player feature|_|
+Perma-cage /;/player feature|_|
+Give player vehicle fly [horn toggles it] /;/player feature|_|
+Exclude friends from attacks /;/feature|_|
+Auto tag modders after sending kick /;/feature|_|
+Self options /;/parent|_|
+Max all weapons /;/feature|_|
+Randomize all weapons /;/feature|_|
+Give all weapons /;/feature|_|
+Max current weapon /;/feature|_|
+Randomize current weapon /;/feature|_|
+You're not holding a weapon. /;/msg|_|
+Random weapon camo /;/feature|_|
+Has a lot of money & low rank. /;/msg|_|
+Has too much money for the rank. /;/msg|_|
+Has a lot of money. /;/msg|_|
+Has Negative lvl /;/msg|_|
+Has Negative k/d /;/msg|_|
+Has a high rank. /;/msg|_|
+Has a high k/d. /;/msg|_|
+Has modded armor. /;/msg|_|
+Has too many wins. /;/msg|_|
+Block areas /;/parent|_|
+Block all los santos customs /;/feature|_|
+Block all Ammu-Nations /;/feature|_|
+Block casino /;/feature|_|
+Teleport player far away /;/player feature|_|
+Found player you were trying to add in your session. Added all their info. /;/msg|_|
+Rid /;/msg|_|
+IP /;/msg|_|
+Name /;/msg|_|
+Successfully gave /;/msg|_|
+vehicle /;/msg|_|
+godmode. /;/msg|_|
+Failed to get control of /;/msg|_|
+Set controller hotkeys /;/feature|_|
+Press key to set to hotkey.\nTo turn off hotkey, press f4. /;/msg|_|
+Turned off the hotkey:\n /;/msg|_|
+Invalid hotkey. Please try again. /;/msg|_|
+Changed /;/msg|_|
+to /;/msg|_|
+Turned off /;/feature|_|
+Hotkey:\nloaded /;/msg|_|
+Load profile /;/feature|_|
+Hotkey:\nRandomized current weapon. /;/msg|_|
+Max kicks for auto host /;/feature|_|
+Force host:\nCancelled. Requires to kick /;/msg|_|
+people in order to get host. /;/msg|_|
+Your host priority is lower than theirs. Cancelled. /;/msg|_|
+Give them host /;/player feature|_|
+Type in clear distance limit. /;/input_does_not_support_unicode|_|
+Vehicle clear distance /;/feature|_|
+Ped clear distance /;/feature|_|
+Object clear distance /;/feature|_|
+Pickup clear distance /;/feature|_|
+Dump world /;/player feature|_|
+Send clown van /;/player feature|_|
+Make nearby peds hostile /;/player feature|_|
+Kick gun /;/player feature|_|
+Kidnap player /;/player feature|_|
+Teleport nearby personal vehicles /;/feature|_|
+sent a modded script event. /;/msg|_|
+Modded script event /;/feature|_|
+Backwards traffic /;/feature|_|
+Swap nearby cars /;/feature|_|
+Notification spam /;/player feature|_|
+Notification spam /;/feature|_|
+Host token /;/msg|_|
+Copy host token to clipboard /;/player feature|_|
+Spawn vehicles maxed /;/feature|_|
+Delete old vehicle /;/feature|_|
+Spawn inside of spawned vehicle /;/feature|_|
+Always spawn with f1 wheels /;/feature|_|
+Always ask what vehicle /;/feature|_|
+Spawn air vehicle mid-air /;/feature|_|
+Spawn vehicles in godmode /;/feature|_|

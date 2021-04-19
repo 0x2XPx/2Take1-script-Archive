@@ -1,0 +1,460 @@
+§Version§ 0.3.9.1 /;/DO NOT CHANGE THIS VALUE|_|
+Kek's menu /;/parent|_|Kek's menu
+General settings /;/parent|_|الاعدادات العامة
+Vehicle /;/parent|_|المركبات
+Self /;/parent|_|نفسي
+Vehicle peaceful /;/parent|_|خيارات مسالمة للمركبات
+Vehicle trolling /;/parent|_|خيارات ترولنق للمركبات
+Vehicle settings /;/parent|_|اعدادات المركبات
+Vehicle blacklist /;/parent|_|البلاك لست للمركبات
+Session malicious /;/parent|_|خيارات ضاره للسيشن
+Player history /;/parent|_|تاريخ اللاعبين
+Scripts /;/parent|_|السكربتات
+Settings /;/parent|_|الاعدادات
+Chat /;/parent|_|الشات
+Custom chat judger /;/parent|_|قاضي شات مخصص
+Chat bot /;/parent|_|بوت الشات
+Chat spamming /;/parent|_|سبام الشات
+Notification settings /;/parent|_|اعدادات الاشعارات
+Hotkey settings /;/parent|_|اعدادات الاختصارات
+Modder detection /;/parent|_|كشف المودرز
+Blacklist /;/parent|_|البلاك لست
+What to do with modders /;/parent|_|ماذا تفعل بالمودرز
+Protections /;/parent|_|الحماية
+Modder logging settings /;/parent|_|اعدادات تسجيل المودرز
+Modder unmark settings /;/parent|_|اعدادات ازالة العلامة على المودرز
+Auto kick tag settings /;/parent|_|اعدادات التاقز للطرد التلقائي
+Which modder detections are on /;/parent|_|أي من اعدادات اكتشاف المودرز مفعلة
+Weapons /;/parent|_|الاسلحة
+Kek's utilities /;/parent|_|اداوات كيك
+Script loader /;/parent|_|سكربت لودر
+Language configuration /;/parent|_|اعدادات اللغة
+Kek's menu /;/player parent|_|Kek's menu
+Vehicle /;/player parent|_|المركبات
+Weapons /;/player parent|_|الاسلحة
+Trolling /;/player parent|_|ترولنق
+Chat /;/player parent|_|شات
+Malicious /;/player parent|_|خيارات ضاره
+Player utilities /;/player parent|_|اداوات اللاعب
+Blacklist /;/player parent|_|البلاك لست
+Scripts /;/player parent|_|سكربتات
+Pedestrian /;/player parent|_|بيديسترين
+Set /;/feature|_|ضبط
+as default language. /;/feature|_|اللغة الاساسية
+Invert all switches /;/feature|_|قلب جميع الخيارات
+Toggle on / off script loader /;/feature|_|تفعيل السكربت لودر
+Empty script loader file /;/feature|_|افراغ ملف السكربت لودر
+Add script to auto loader /;/feature|_|اضافة السكربت اللى السكربت لودر
+Remove script from auto loader /;/feature|_|ازالة السكربت من السكربت لودر
+Modded stats, severity, click me /;/feature|_|حساسية كشف المودد ستاتس, اضغطني
+Modded scid detection /;/feature|_|كشف المودد روكستار اي دي
+Modded name detection /;/feature|_|كشف الاسم المودد
+Entity crash protection /;/feature|_|حماية الكراش من الكائنات
+Modded net event detection /;/feature|_|حماية من كراش ايفينت الشبكة
+Blacklist /;/feature|_|البلاك لست
+Check people's stats automatically /;/feature|_| تحقق من ستاتس اللاعبين تلقائيا
+Check everyone's stats /;/feature|_|التحقق من الستاتس لجميع اللاعبين 
+Check if anyone is in the blacklist /;/feature|_|التحقق اذا كان احد موجود في البلاك لست
+Detect any modded spectate /;/feature|_|الكشف عن المودد سبيكتايت
+Detect too long off the radar /;/feature|_|الكشف عن اخفاء من الماب طويل
+Kick any vote kickers /;/feature|_|طرد اي المصوتين على الطرد
+Add player / modify reason they were added /;/feature|_|اضافة اللاعب \ تغيير السبب للاضافة
+Remove player from blacklist /;/feature|_|ازالة اللاعب من البلاك لست
+Add session to blacklist /;/feature|_|اضافة السيشن للبلاك لست
+Remove session from blacklist /;/feature|_|ازالة السيشن من البلاك لست
+Get host automatically /;/feature|_|احصل على الهوست تلقائيا
+Log modders with selected tags to blacklist /;/feature|_|تسجيل المودرز مع التاقز المحددة
+Auto kick modders with selected tags /;/feature|_|طرد تلقائي للمودرز مع التاقز المحددة
+Auto unmark modders with selected tags /;/feature|_|ازالة العلامة تلقائيا على المودرز مع التاقز المحددة
+Ram vehicle speed /;/feature|_|سرعة مركبة الصدم
+Ram everyone /;/feature|_|صدم الجميع
+Effect type, click me /;/feature|_|نوع الايفيكت, اضغطني
+Apply effect to nearby vehicles /;/feature|_|تفعيل الايفيكت للمركبات القريبة
+Vehicle fly nearby vehicles /;/feature|_|الطيران بالمركبات القريبة
+Disable vehicles /;/feature|_|تعطيل المركبات
+Vehicle storm /;/feature|_|عاصفة المركبات
+Copy rid to clipboard /;/feature|_|نسخ الروكستار اي دي
+Copy ip to clipboard /;/feature|_|نسخ الاي بي
+Please click me for info /;/feature|_|الرجاء اضغطني للمعلومات
+Num of people, click to type /;/feature|_|عدد الناس, اضغطني للكتابة
+Player history /;/feature|_|تاريخ اللاعبين
+Clear searched player list /;/feature|_|ازالة قائمة اللاعبين المبحوثين
+Search (all players ever met) /;/feature|_|البحث (جميع اللاعبين اللي قابلتهم)
+Add entry vehicle blacklist /;/feature|_|اضافة مركبة الى البلاك لست
+Remove entry vehicle blacklist /;/feature|_|ازالة مركبة من البلاك لست
+Empty vehicle blacklist /;/feature|_|افراغ البلاك لست للمركبات
+Vehicle blacklist only on selected players /;/feature|_|بلاك لست مركبات للاعبين المحددين فقط
+Vehicle blacklist /;/feature|_|بلاك لست المركبات
+What to ram people with /;/feature|_|اي مركبة لصدم اللاعبين
+Spawn vehicle for everyone /;/feature|_|سباون مركبة للجميع
+Max everyone's car /;/feature|_|عدل مركبات الجميع لأعلى شي
+Teleport session to current position /;/feature|_|تيليبورت السيشن للمكان الحالي
+Teleport session to waypoint /;/feature|_|تيليبورت السيشن الى الواي بوينت
+Get host /;/feature|_|اصبح هوست
+Kick session /;/feature|_|طرد السيشن
+Crash session /;/feature|_|كراش السيشن
+Give session bounty /;/feature|_|ضع باونتي على السيشن
+Never wanted /;/feature|_|بدون شرطة
+off the radar /;/feature|_|اخفاء من الماب
+Reapply bounty /;/feature|_|اعادة وضع الباونتي
+Give 10k /;/feature|_|اعطاء 10 الاف
+Block passive /;/feature|_|منع الباسف
+Send to random mission /;/feature|_|الارسال الى مهمة عشوائية
+Perico island /;/feature|_|جزيرة بيركو
+Apartment invites /;/feature|_|دعوات للشقق
+Ban CEO /;/feature|_|بان للسي اي او
+Dismiss CEO /;/feature|_|طرد السي اي او
+Terminate CEO /;/feature|_|انهاء السي اي او
+Transaction error /;/feature|_|غلط الترانساكشن
+Add entry chat judger /;/feature|_|اضافة كلمة الى قاضي الشات
+Remove entry chat judger /;/feature|_|ازالة كلمة من قاضي الشات
+Empty chat judge file /;/feature|_|افراغ ملف قاضي الشات
+What reaction, click me /;/feature|_|اي ردة فعل, اضغطني
+Custom chat judge /;/feature|_|قاضي الشات المخصص
+Judge only selected players /;/feature|_|فقط قاضي اللاعبين المحددين
+Spam speed, click to type /;/feature|_|سرعة السبام, اضغط للكتابة
+Text to spam, type it in /;/feature|_|كلام السبام, اضغط عشان تكتب
+Grab text from clipboard(what u copied) /;/feature|_|اخذ الكلام من الكليب بورد (اللي نسخته)
+Grab text from clipboard and send each line /;/feature|_|اخذ الكلام من الكليب بورد و ارسال كل سطر
+Grab text from file /;/feature|_|اخذ الكلام من ملف
+Random text from file /;/feature|_|كلام عشوائي من ملف
+Chat spammer /;/feature|_|شات سبامر
+Echo delay, click to type /;/feature|_|تأخير الصدى
+Echo chat /;/feature|_|صدى الشات
+Echo selected players only /;/feature|_|صدى للاعبين المحددين فقط
+Add entry to chat bot /;/feature|_|اضافة كلمة للشات بوت
+Remove entry from chat bot /;/feature|_|ازالة كلمة من الشات بوت
+Remove all entries from chatbot /;/feature|_|ازالة جميع الكلمات من الشات بوت
+Answer delay chatbot /;/feature|_|تأخير اجابة الشات بوت
+Chat bot /;/feature|_|الشات بوت
+Disconnect from session /;/feature|_|قطع الاتصال بالسيشن
+Max car /;/feature|_|تعديل السيارة الى الماكس
+Max car loop /;/feature|_|تكرار تعديل السيارة
+Change default vehicle /;/feature|_|تغيير المركبة الاساسية
+Change backplate text /;/feature|_|تغيير رقم اللوحة
+What vehicle to spawn /;/feature|_|اي مركبة للسباون
+Spawn vehicle /;/feature|_|سباون المركبة
+Vehicle fly speed, click to type /;/feature|_|طيران بالمركبة
+Vehicle fly /;/feature|_|طيران بالمركبة
+Type in what object /;/feature|_|اكتب اي اوبجيكت
+Object gun /;/feature|_|سلاح الاوبجيكتس
+Airstrike gun /;/feature|_|سلاح الضربة الجوية (اير سترايك)
+What vehicle vehicle gun /;/feature|_|اي مركبة لسلاح المركبات
+Vehicle gun /;/feature|_|سلاح المركبات
+Entity type, click me for info /;/feature|_|نوع الكائنات, اضغطني للمعلومات
+Clear entity type /;/feature|_|حذف نوع الكائن
+Shoot entity| get model name of entity /;/feature|_|اطلق كائنات | اخذ اسم الموديل من الكائن
+Enable hotkeys /;/feature|_|تفعيل الاختصارات
+Save settings to default /;/feature|_|حفظ الاعدادات على الاساسي
+1 = Load profile /;/feature|_|1 = تفعيل ملف الاعدادات
+2 = Overwrite/save profile /;/feature|_|حفظ لملف جديد\نفس الملف
+3 = Change profile name /;/feature|_|تغيير اسم الملف
+Add player / modify reason they were added /;/player feature|_|اضافة اللاعب \ تغيير السبب للاضافة
+Remove player from blacklist /;/player feature|_|اضافة السيشن للبلاك لست
+Ram vehicle speed /;/player feature|_|سرعة مركبة الصدم
+Script event crash /;/player feature|_|سكربت كراش
+Brute force crash /;/player feature|_|كراش الهجوم القوي
+Kick player /;/player feature|_|طرد اللاعب
+Vehicle blacklist on this player /;/player feature|_|تفعيل بلاك لست المركبات على اللاعب
+Get model name of their car to clipboard /;/player feature|_|نسخ اسم المودل لمركبة اللاعب
+Chat judge this player /;/player feature|_|قاضي الشات للاعب هذا
+Echo this player /;/player feature|_|صدى هذا اللاعب
+Type in ped model /;/player feature|_|اكتب اسم بيد
+Spawn a ped /;/player feature|_|سباون للبيد
+Car godmode /;/player feature|_|قود للسيارة
+Copy player's car /;/player feature|_|نسخ سيارة اللاعب
+Max car /;/player feature|_|تعديل السيارة الى الماكس
+Vehicle fly player /;/player feature|_|طيران سيارة اللاعب
+Spastic car /;/player feature|_|تشنج للسيارة اللاعب
+Max car loop /;/player feature|_|تكرار تعديل سيارة اللاعب الى الماكس
+Repair car loop /;/player feature|_|تكرار تصليح السيارة
+What vehicle to spawn /;/player feature|_|اي مركبة للسباون
+Spawn vehicle /;/player feature|_|سباون المركبة
+Teleport player & vehicle to waypoint /;/player feature|_|تيليبورت اللاعب و المركبة الى الوي بوينت
+Teleport player & vehicle to you /;/player feature|_|تيليبورت اللاعب و المركبة اليك
+Disable vehicles /;/player feature|_|تعطيل المركبات
+Off the radar /;/player feature|_|اخفاء من الماب
+10k ceo loop /;/player feature|_|تكرار 10 الاف سي اي او
+Block passive mode /;/player feature|_|منع الباسف
+apply bounty /;/player feature|_|وضع الباونتي
+Reapply bounty /;/player feature|_|اعاده وضع الباونتي
+Perico island /;/player feature|_|جزيرة بيركو
+Apartment invites /;/player feature|_|دعوات الشقق
+Send to random mission /;/player feature|_|الارسال الى مهمات عشوائية
+Terminate CEO /;/player feature|_|انهاء السي اي او
+Transaction error /;/player feature|_|غلط الترانس اكشن
+Which vehicle /;/player feature|_|اي مركبة
+Ram player with vehicle /;/player feature|_|صدم اللاعب بالمركبة
+Ram loop /;/player feature|_|تكرار الصدم
+Spawn kek's chopper /;/player feature|_|سباون طائرة كيك
+Hurricane /;/player feature|_|اعصار
+Vehicle gun /;/player feature|_|سلاح المركبات
+Delete gun /;/player feature|_|سلاح الحذف
+Explosion gun /;/player feature|_|سلاح الانفجارات
+Copy rid to clipboard /;/player feature|_|نسخ الروكستار اي دي
+Copy position with decimals to clipboard /;/player feature|_|نسخ الاحداثيات بالكسور
+Copy position without decimal to clipboard /;/player feature|_|نسخ الاحداثيات بدون الكسور
+Copy ip to clipboard /;/player feature|_|نسخ الاي بي
+Save all their stats to file /;/player feature|_|حفظ جميع الستاتس
+was set as the default language. /;/msg|_|9ar all3'h alrasiah
+Current language file is outdated, switched to english. /;/msg|_|all3'h al7alyah 8dymah, t7oyl ala al english
+This language file is outdated, please update it. You can still use it, no problem. /;/msg|_|mlf all3'h 8dem, alrja t7dy4h. ymknk ast5damh a4a tryd.
+You're missing a file in kekMenuLibs. Please reinstall Kek's menu. /;/msg|_|hnak mlf na89, alrja a3adh tthbyt kek's menu
+There's a library file which is the wrong version, please reinstall kek's menu. /;/msg|_|hnak mlf m3 a9dar 3'yr 97y7, alrja a3adh tthbyt kek's menu
+Something was wrong with the profiles names. Names set to default. /;/msg|_|hnak 3'l6 m3 asma mlfat ala3dadat, alasma rj3t ala alasm alasasy
+Kek's menu /;/msg|_|Kek's menu
+Turned off script loader /;/msg|_|tm a6fa al script loader
+Turned on script loader /;/msg|_|tm tsh3'yl al script loader
+Emptied script loader /;/msg|_|tm afra3' al script loader
+Added /;/msg|_|tmt ala9'fh
+to script loader /;/msg|_|ala al script loader
+is already in the script loader /;/msg|_|mojod msb8a fy al script loader
+Couldn't find file /;/msg|_|lm yjd almlf
+Removed /;/msg|_|tmt alazalh
+from script loader /;/msg|_|mn al script loader
+autoexec doesn't exist /;/msg|_|autoexec lm yojd
+Chat judge:\nBounty set on /;/msg|_|8a9'y alchat:\nal bounty w9'3t
+Chat judge:\nRamming /;/msg|_|8a9'y alchat:\njary al9dm
+with explosive tankers /;/msg|_|m3 5zanat mtfjrh
+Chat judge:\nKicking player out of their vehicle. /;/msg|_|8a9'y alchat:\6rd alla3b mn almrkbh
+Chat judge:\nKicking /;/msg|_|8a9'y alchat:\jary al6rd
+Chat judge\nCrashing /;/msg|_|8a9'y alchat:\jary al crash
+sent vote kick. Kicking them... /;/msg|_|arsl t9wyt 6rd. jary 6rdhm
+tried to crash you. /;/msg|_|7awl yswy crash lk
+How many modded stat detections are needed to tag them as modder /;/msg|_|ma 3dd almodded stats almktshfh lajl w9'3 3lamh almodder 3lyhm 
+Minor detections are 1 in severity, severe ones like modded name, are 3. /;/msg|_|alkshofat al5fyfh hy 1 hy al7sasyh, alkshofat al8wyh zy alasm almodded hy 3
+has: /;/msg|_|ldyh
+severity: /;/msg|_|7sasyh
+has a modded scid. /;/msg|_|ldyh modded rockstar id
+has a modded name. /;/msg|_|ldyh asm modded
+Recognized /;/msg|_|tm t4kr
+\nDetected: /;/msg|_|\ntm aktshaf:
+\nTags:\n /;/msg|_|\n3alamat:\n
+Checked lobby for suspicious stats /;/msg|_|tm f79 al session ll stats almshkok bha
+Checked blacklist. /;/msg|_|tm f79 al blacklist
+is spectating /;/msg|_|ho spectating
+was off the radar for too long. /;/msg|_|kan off radar lw8t 6woyl
+Changed the reason this person was added to the blacklist. /;/msg|_|tm t3'yyr alsbb h4a alsh59 an9'af ala al blacklist
+Added to blacklist. /;/msg|_|tm ala9'afh ala al blacklist
+Removed rid. /;/msg|_|tm azalh al rockstar id
+Couldn't find player. /;/msg|_|lm ytmkn mn ayjad alla3b
+Blacklist file doesn't exist. /;/msg|_|mlf blacklist lys mojod
+You can't add yourself to the blacklist... /;/msg|_|la ymknk a9'afh nfsk ala al blacklist
+Rid is too short / invalid. /;/msg|_|rockstar id 89yr / 3'yr 97y7.
+Session is empty... /;/msg|_|al session fa9'y
+players to the blacklist.\nChanged reasons for /;/msg|_|tm t3'yyr alsbb l:\nalla3been ala al blacklist
+people already in the blacklist /;/msg|_|alla3been mojoden msb8a fy al blacklist
+Removed session from the blacklist. /;/msg|_|tm azalh al session mn al blacklist
+Kicking /;/msg|_|jary al6rd
+, flags:\n /;/msg|_|, 3lamat:\n
+1: Max cars\n2: Give godmode\n3: Repair cars\n4: Godmode & max\n5: Chaos mode /;/msg|_|1: t3dyl ala a9'3l shy\n2: a36a god mode\n3: t9ly7 alsyarat\n4: god wa t3'dyl ala almax\n5: fo9'a
+Num of people, click to type, means how many people are shown in the player history. /;/msg|_|3dd alla3been, a9'3'6 llktabh, y3ny 3dd alla3been ally fy tare5 alla3been
+The higher it is, the longer the freeze when reseting lua state becomes. Default value is safe. /;/msg|_|klma kan alr8m akbr kan al lag akbr lma tsoy reset ll lua
+Input too short. /;/msg|_|ally ktbth 89yr jdan
+Entry is too short. /;/msg|_|ally ktbth 89yr jdan
+1 = EMP\n2 = Kick out\n3 = Kick out & destroy personal vehicle\n4 = Explode\n5 = Ram with tankers /;/msg|_|1 = EMP\n2 = a6rd barra\n3 = a6rd barra wa ksr mrkbth\n4 = tfjyr\n5 = 9dm bl 5zanat
+6 = Kick\n7 = Crash\n0 = random reaction(not kick or crash) /;/msg|_|6 = 6rd\n7 = Crash\n0 = 3swa'y(mb 6rd ao crash)
+Modified reaction in existing entry. /;/msg|_|tm t3dyl rdh alf3l
+Nothing was changed, same reaction as it previously was. /;/msg|_|lm yt3'yr shy, nfs rdh alf3l ally 8bl
+Invalid entry. /;/msg|_|entry 3'yr 97y7h
+Couldn't find entry. /;/msg|_|lm ytmkn mn ayjad al entry
+Emptied vehicle blacklist. /;/msg|_|tm afra3' blacklist almrkbat
+Vehicle blacklist:\nEMP'd /;/msg|_|blacklist almrkbat:\ntm al EMP
+Vehicle blacklist:\nKicked /;/msg|_|blacklist almrkbat:\ntm al 6rd
+Vehicle blacklist:\nExploding /;/msg|_|blacklist almrkbat:\njary altfjyr
+out of their /;/msg|_|5arj
+Vehicle blacklist:\nRamming /;/msg|_|blacklist almrkbat:\njary al9dm
+Vehicle blacklist:\nCrashed /;/msg|_|blacklist almrkbat:\ntm al Crash
+for using /;/msg|_|la ast5dam
+Copied /;/msg|_|tm ns5
+to clipboard. /;/msg|_|ala al clipboard
+Player isn't in a vehicle. /;/msg|_|alla3b lys fy mrkbh
+Cars spawned. /;/msg|_|spawned alsyarat
+Maxed everyone's cars. /;/msg|_|tm t3dyl syarat aljmy3 ala almax
+Please set a waypoint. /;/msg|_|alrja w9'3 waypoint
+Entry is already in there! /;/msg|_|entry mojodh mn 8bl
+Emptied. /;/msg|_|tm afra3'
+0 = random(not kick / crash)\n1 = Set bounty\n2 = Ram player\n3 = Kick from vehicle /;/msg|_|0 = 3shwa'y(mb 6rd ao crash)\n1= 9'3 bounty\n2 = 9dm alla3b\n3 = 6rd mn almrkbh
+Cancelled. /;/msg|_|tm al3'a
+Successfully added entry. /;/msg|_|tm a9'afh entry bnja7
+Entry was already added. /;/msg|_|entry mojodh mn 8bl
+Removed entry. /;/msg|_|tm azalh al entry
+Removed all entries. /;/msg|_|tm azalh jmy3 al entries
+Disconnect attempt failed. Attempting method 2... /;/msg|_|m7awlh 8d3 alat9al fshlt. m7awlh a5ra b6ry8h 2...
+The game will freeze, just wait 10 seconds. /;/msg|_|all3bh bt3l8, a9br 10 thwany
+is not in a vehicle. /;/msg|_|lys fy mrkbh
+No vehicle to copy. /;/msg|_|la mrkbh lns5ha
+Maxed /;/msg|_|tm t3dyl ala almax
+vehicle. /;/msg|_|mrkbh.
+Failed to get control of their car. /;/msg|_|m7awlh t7km syarathm fshlt
+Changed default vehicle. /;/msg|_|tm t3'yyr alsyarah alasasyh
+Invalid input. Default value remains the same. /;/msg|_|3'yr 97y7. alr8m alasasy yb8a nfs alshy
+Invalid input. Plate text remains the same. /;/msg|_|3'yr 97y7. klam allo7h yb8a nfs alshy
+Changed default plate text. /;/msg|_|tm t3'yyr klam allo7h alasasyh
+No need to teleport yourself to yourself. /;/msg|_|ma t7taj tsoy teleport lnfsk
+Modded bounties does not work while you're script host. /;/msg|_|al modded bouties ma tsht3'l a4a knt script host.
+Their position is unknown (invalid Z coordinate). Please get closer to them. /;/msg|_|mkanhm 3'yr m3rof (z 3'yr 97y7). alrja ala8trab mnhm
+Invalid object. /;/msg|_|object 3'yr 97y7
+1: Vehicles\n2: Peds\n3: Objects\n4: Pickups\n5: Peds & Vehicles\n6: All /;/msg|_|1: almkrbat\n2: Peds\n3: Objects\n4: Pickups\n5: Peds & almrkbat\n6: klhm
+This model is called: /;/msg|_|h4a al model asmh:
+Saved their stats to a file. /;/msg|_|tm 7f6' al stats 78thm ala mlf
+Hotkey:\nTurned on /;/msg|_|a5t9ar:\ntm altf3yl
+Hotkey:\nTurned off /;/msg|_|a5t9ar:\ntm alt36yl
+Hotkey:\nMaxed vehicle. /;/msg|_|a5t9ar:\ntm t3dyl ala almax
+Hotkey:\nSpawned vehicle. /;/msg|_|a5t9ar:\ntm al spawn llmrkbh
+Hotkey:\nRepaired vehicle. /;/msg|_|a5t9ar:\ntm t9ly7 almrkbh
+vehicle fly. /;/msg|_|6yran almrkbh
+vehicle gun. /;/msg|_|sla7 almrkbat
+airstrike gun. /;/msg|_|sla7 al89f aljoey
+Clear entity type. /;/msg|_|74f no3 alka'n
+Hotkey:\nTagged non modders & untagged modders with manual tag. /;/msg|_|a5t9ar:\ntm w9'3 3lamh modder 3la ally ma 3lyhm 3lamh wa tm azalh 3lamh modder mn ally 3lyhm al3lamh mn al3lamat alydoyh
+Hotkey:\nDisconnected you from session. /;/msg|_|a5t9ar:\ntm 8d3 alat9al mn al session.
+Hotkey:\nIncreased vehicle fly speed. /;/msg|_|a5t9ar:\ntm zyadh sr3h 6yran almrkbat
+Hotkey:\nDecreased vehicle fly speed. /;/msg|_|a5t9ar:\ntm t5fyf sr3h 6yran almrkbat
+Turned off the keybinding:\n\" /;/msg|_|tm 74f ala5t9ar:\n\"
+Keybinding not changed. Empty input or input is the same as existing keybinding. /;/msg|_|ala5t9ar lm yt3'yr. a5t9ar 3'l6 ao nfs 8bl
+Invalid keybinding.\nIt's case sensitive, get it right. /;/msg|_|a5t9ar 3'yr 97y7.\ntrah y3tmd 3la 7jm al 7rof
+Most of the keys like, left shift. are written in all caps. Example: LSHIFT. /;/msg|_|a3'lb alazrar zy, left shift. t9yr mktobh b7rof kbyrh. mthl: LSHIFT.
+Settings saved! /;/msg|_|tm 7f6' ala3dadat
+Successfully loaded /;/msg|_|loaded bnja7
+The setting file doesn't exist.\nPlease save to this slot in order to use it. /;/msg|_|mlf ala3dadat lys mojod.\nalrja 7f6' fy ha4y al5anh lajl ast5damha
+Saved /;/msg|_|tm al7f6'
+Invalid name. /;/msg|_|asm 3'yr 97y7
+Saved profile name. /;/msg|_|tm 7f6' alasm
+Failed to save profile name. /;/msg|_|3mlyh 7f6' alasm fshlt
+Successfully loaded Kek's menu. /;/msg|_|Successfully loaded Kek's menu.
+Type in what car to use /;/input_does_not_support_unicode|_|aktb ay syarh llast5dam
+Type in the name of the lua script to add. /;/input_does_not_support_unicode|_|aktb al lua ally tryd a9'afth
+Type in the lua script you want to remove. /;/input_does_not_support_unicode|_|aktb al lua ally tryd azalth
+Type in why you're adding this person. Typing in nothing makes the reason: Manually added. /;/input_does_not_support_unicode|_|aktb lma4a a9'ft h4a alsh5s. a4a lm yktb shey alsbb sykon: an9'af ydoyan
+Type in social club ID, also known as: rid / scid. /;/input_does_not_support_unicode|_|aktb rockstar id
+Type in ip. /;/input_does_not_support_unicode|_|aktb ip
+Type in the why you're adding this person. Typing in nothing makes the reason: Manually added. /;/input_does_not_support_unicode|_|aktb lma4a a9'ft h4a alsh5s. a4a lm yktb shey alsbb sykon: an9'af ydoyan
+Type in their name. /;/input_does_not_support_unicode|_|aktb asmhm
+Type in the why you're adding everyone. Typing in nothing makes the reason: Manually added. /;/input_does_not_support_unicode|_|aktb lma4a a9'ft al jmy3. a4a lm yktb shey alsbb sykon: an9'af ydoyan
+Type in ram speed /;/input_does_not_support_unicode|_|aktb sr3h al9dm
+Type in history limit. /;/input_does_not_support_unicode|_|aktb 7d al tary5
+Type in what player you wanna search for. rid / name / ip /;/input_does_not_support_unicode|_|aktb ay la3b tryd al b7th 3nh. rockstar id \ asm \ ip
+Type in what to add. /;/input_does_not_support_unicode|_|aktb ma tryd a4afth
+Type in what reaction. NUMBER, 0 to 8 /;/input_does_not_support_unicode|_|aktb rdh f3l. r8m mn 0 ala 8
+Type in what to remove. /;/input_does_not_support_unicode|_|aktb ma tryd 74fh
+Type in which car to ram people with. /;/input_does_not_support_unicode|_|aktb ma al syarh alty tryd an t9dm alla3ben bha
+Type in which car to spawn /;/input_does_not_support_unicode|_|aktb ma al syarh allty tryd an tsoy spawn lha
+Type in part /;/input_does_not_support_unicode|_|aktb jzu
+of the text. All of these will be merged into one text. /;/input_does_not_support_unicode|_|mn al klam. kl h4oly sof yndmjon ala klam wa7d 
+Type in echo delay. /;/input_does_not_support_unicode|_|aktb ta5yr al9da
+Type in what the bot will react to. /;/input_does_not_support_unicode|_|aktb ma al bot sof yrd 3lyh
+Type in what the bot will say to what you previously typed in. /;/input_does_not_support_unicode|_|aktb al rd 3la ma ktbta mn 8bl
+Type in what the text the bot reacts to in the entry you wish to remove. /;/input_does_not_support_unicode|_|aktb rdh al f3l al4y trydha
+Type in answer delay. /;/input_does_not_support_unicode|_|aktb ta5yr al ajabh
+Type in the name of the ped you want to spawn. /;/input_does_not_support_unicode|_|aktb asm al ped al4y tryd an tsoy spawn lh
+Type in the vehicle you want to be default. /;/input_does_not_support_unicode|_|aktb ma al mrkbh al4y tryd an tkon al assasyh
+Type in the text you want displayed on the backplate of your cars after maxing them. /;/input_does_not_support_unicode|_|aktb alklam al9'ahr 3la lo7t al syarh 3ndma t3dlha ala af9'l shey
+Type in vehicle speed /;/input_does_not_support_unicode|_|aktb sr3h al mrkbh
+Type in which car to ram with /;/input_does_not_support_unicode|_|aktb ma al mrkbh alty tryd an t9dm alla3b bha
+Type in what object to use. /;/input_does_not_support_unicode|_|aktb ma al object al4y tryd an tst5dm
+Type in which car to use for vehicle stuff. /;/input_does_not_support_unicode|_|aktb ma al syarh alty tryd an tst5dmha la vehicle stuff
+Type in what you want the keybinding to be. /;/input_does_not_support_unicode|_|aktb ma tryd al a5t9ar an ykon
+Type in the name of the profile. /;/input_does_not_support_unicode|_|aktb asm al mlf 78 al a3dadat
+Log: /;/setting|_|سجل:
+Kick: /;/setting|_|طرد:
+Unmark: /;/setting|_|ازالة العلامة:
+Max vehicle /;/hotkey|_|تعديل المركبة الى الماكس
+Spawn vehicle /;/hotkey|_|سباون للمركبة
+Repair vehicle /;/hotkey|_|تصليح المركبة
+Vehicle fly /;/hotkey|_|طيران المركبة
+Vehicle gun /;/hotkey|_|سلاح المركبات
+Airstrike gun /;/hotkey|_|سلاح القصف الجوي
+Change vehicle used for vehicle stuff /;/hotkey|_|غير المركبة المستخدمة لاشياء المركبات
+Tag / untag session /;/hotkey|_|ضغ \ ازالة العلامة على السيشن
+Disconnect from session /;/hotkey|_|قطع الاتصال بالسيشن
+Clear entity type /;/hotkey|_|حذف نوع الكائن
+Increase vehicle fly speed /;/hotkey|_|زيادة سرعة طيران المركبة
+Decrease vehicle fly speed /;/hotkey|_|تخفيف سرعة طيران المركبة
+Hotkeys /;/setting|_|الاختصارات
+Glitch their vehicle /;/player feature|_|خرب مركبتهم
+6 = Glitch their vehicle\n7 = Kick\n8 = Crash\n0 = random reaction(not kick or crash) /;/msg|_|6 = 5rb mrkbthm\n7 = 6rd\n8 = crash\n0 = 3sha'y (mb 6rd ao crash)
+Vehicle blacklist:\nGlitching /;/msg|_|blacklist almrkbat:\nt5ryb
+Chat judge:\nBlaming /;/feature|_|قاضي الشات:\nلوم
+for killing session. /;/feature|_|لقتل السيشن
+Lag session /;/feature|_|لاق للسيشن
+Taze player /;/player feature|_|كهرب اللاعب
+Perma-cage /;/player feature|_|قفص دائم
+Give player vehicle fly [horn toggles it] /;/player feature|_|اعطاء اللاعب طيران المركبة (البوري يشغله ويطفيه)
+Finished crash. /;/msg|_|5l9 al crash.
+Exclude friends from attacks /;/feature|_|استثنى الاصدقاء من الهجمات
+Auto tag modders after sending kick /;/feature|_|ضع علامة تلقائيا على المودرز بعد ارسال الطرد
+Lag player /;/player feature|_|لاق للاعب
+Self options /;/parent|_|خيارات السيلف
+Max all weapons /;/feature|_|ماكس جميع الاسلحة
+Randomize all weapons /;/feature|_|تعديلات عشوائية لجميع الاسلحة
+Give all weapons /;/feature|_|اعطاء جميع الاسلحة
+Max current weapon /;/feature|_|ماكس السلاح الحالي
+Randomize current weapon /;/feature|_|تعديلات عشوائية للسلاح الحالي
+You're not holding a weapon. /;/msg|_|ant lst mask sla7
+Random weapon camo /;/feature|_|لون سلاح عشوائي
+Has a lot of money & low rank. /;/msg|_|ldyh flos kthyrh wa rank 8lyl
+Has too much money for the rank. /;/msg|_|ldyh flos kthryh llrank 78h
+Has a lot of money. /;/msg|_|ldyh flos kthyrh
+Has Negative lvl /;/msg|_|ldyh rank fy alsalb
+Has Negative k/d /;/msg|_|ldyh k/d fy alsalb
+Has a high rank. /;/msg|_|ldyh rank 3aly
+Has a high k/d. /;/msg|_|ldyh k/d 3aly
+Has modded armor. /;/msg|_|ldyh modded armor
+Has too many wins. /;/msg|_|ldyh fozat kthyrh
+Block areas /;/parent|_|حجز مناطق
+Block all los santos customs /;/feature|_|حجز جميع ال لوس سانتوس كستومز
+Block all Ammu-Nations /;/feature|_|حجز جميع محلات الاسلحة
+Block casino /;/feature|_|منع الكازينو
+Teleport player far away /;/player feature|_|تيليبوت اللاعب بعيد جدا
+Found player you were trying to add in your session. Added all their info. /;/msg|_|tm iyjad alla3b ally knt t7awl t9'yf mn al session. tmt a9'afh jmy3 m3lomathm
+Rid /;/msg|_|Rid
+IP /;/msg|_|IP
+Name /;/msg|_|asm
+Successfully gave /;/msg|_|tm bnja7 a36a
+vehicle /;/msg|_|mrkbh
+godmode. /;/msg|_|godmode.
+Failed to get control of /;/msg|_|fshlt m7awlh t7km bsyarthm
+Set controller hotkeys /;/feature|_|ضع اختصارات الكنترولر
+Press key to set to hotkey.\nTo turn off hotkey, press f4. /;/msg|_|a9'3'6 zr 3shan t76 a5t9ar.\n3shan t6fyh, a9'3'6 f4.
+Turned off the hotkey:\n /;/msg|_|tm a6fa al a5t9ar
+In order to set hotkeys for controller, this has to be on first! /;/msg|_|lajl w9'3 a5t9ar ll controller, h4a lazm y9yr ysht3'l awl
+Changed /;/msg|_|tm t3'yyr
+to /;/msg|_|ala
+Turned off /;/feature|_|tm a6fah
+Hotkey:\nloaded /;/msg|_|ala5t9arat:\nloaded
+Load profile /;/feature|_|لود لاملف الاعدادات
+Hotkey:\nRandomized current weapon. /;/msg|_|a5t9ar:\ntm alt3dyl al3shwa'y llsla7 al7aly
+One of the people further in host queue is your friend! Cancelled. /;/msg|_|a7d alla3been fy 6abor alhost 9dy8k! tm al al3'a
+Max kicks for auto host /;/feature|_|الحد الاقصى للطرد حق الاتو هوست
+Force host:\nCancelled. Requires to kick /;/msg|_|ajbar alhost:\ntm al3'ah. lazm y6rd
+people in order to get host. /;/msg|_|la3been 3shan yjeeb host.
+Your host priority is lower than theirs. Cancelled. /;/msg|_|awlawyh al host 78k a8l mnhm. tm al al3'a.
+Give them host /;/player feature|_|عطهم هوست
+Type in clear distance limit. /;/input_does_not_support_unicode|_|aktb 7d masafh al 74f
+Vehicle clear distance /;/feature|_|مسافة حذف المركبات
+Ped clear distance /;/feature|_|مسافة حذف البيد
+Object clear distance /;/feature|_|مسافة حذف الاوبجيكت
+Pickup clear distance /;/feature|_|مسافة حذف البيك اب
+Dump world /;/player feature|_|كب العالم
+Send clown van /;/player feature|_|ارسل فان المهرج
+4 = Blame kill lobby\n5 = Kick player\n6 = Crash player /;/msg|_|4 = 8tl al lobby m3 al8a al lom\n5 = 6rd alla3b\n6 = Crash alla3b
+Make nearby peds hostile /;/player feature|_|اجعل البيدز القريبين عدوانيين
+Kick gun /;/player feature|_|سلاح الطرد
+Kidnap player /;/player feature|_|اختطاف اللاعب
+Teleport nearby personal vehicles /;/feature|_|تيليبورت المركبات الشخصية القريبة
+sent a modded script event. /;/msg|_|arsl modded script event
+Modded script event /;/feature|_|مودد سكربت ايفينت
+Backwards traffic /;/feature|_|سير عكسي
+Swap nearby cars /;/feature|_|استبدال السيارات القريبة
+Notification spam /;/player feature|_|ارسال اشعارات كثيرة
+Notification spam /;/feature|_|ارسال اشعارات كثيرة
+Host token /;/msg|_|rmz al host
+Copy host token to clipboard /;/player feature|_|نسخ رمز الهوست
+Spawn vehicles maxed /;/feature|_|سباون المركبات معدلة ماكس
+Delete old vehicle /;/feature|_|احذف المركبة القديمة
+Spawn inside of spawned vehicle /;/feature|_|سباون داخل المركبة
+Always spawn with f1 wheels /;/feature|_|داما سباون باكفرات ف1
+Always ask what vehicle /;/feature|_|داما اسال اي مركبة
+Spawn air vehicle mid-air /;/feature|_|سباون الطائرات في السماء
+Spawn vehicles in godmode /;/feature|_|سباون المركبات في وضع القود مود

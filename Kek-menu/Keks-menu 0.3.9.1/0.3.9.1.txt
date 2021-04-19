@@ -1,0 +1,10 @@
+- Fixed hotkeys showing as -1
+- Fixed having to hold down the key you want to set hotkey for
+- Fixed hotkeys not loading and unloading properly when loading profiles
+- Fixed error when toggling on & off hotkeys
+- Other bug fixes
+- Removed dependencies on MenuKey()
+- Added all missing entries to dutch & german
+- Added vehicle setting translations
+- Updated all language files
+- Added block casino garage & music locker to block casino

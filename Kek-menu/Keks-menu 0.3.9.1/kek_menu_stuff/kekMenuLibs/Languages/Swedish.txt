@@ -1,0 +1,453 @@
+§Version§ 0.3.9.1 /;/DO NOT CHANGE THIS VALUE|_|
+Kek's menu /;/parent|_|Keks meny
+General settings /;/parent|_|Allmänna inställningar
+Vehicle /;/parent|_|Fordon
+Self /;/parent|_|Mig
+Vehicle peaceful /;/parent|_|Fordon fredslig
+Vehicle trolling /;/parent|_|Fordon trolla
+Vehicle settings /;/parent|_|Fordons inställningar
+Vehicle blacklist /;/parent|_|Fordons svartlista
+Session malicious /;/parent|_|Session elaka
+Player history /;/parent|_|Spelar historik
+Scripts /;/parent|_|Skript
+Settings /;/parent|_|Inställningar
+Chat /;/parent|_|Chatt
+Custom chat judger /;/parent|_|Skräddarsydd chatt dömare
+Chat bot /;/parent|_|Chatt bot
+Chat spamming /;/parent|_|Chat spammare
+Notification settings /;/parent|_|Notifikations inställningar
+Hotkey settings /;/parent|_|Hotkey inställningar
+Modder detection /;/parent|_|Moddare upptäckare
+Blacklist /;/parent|_|Svartlista
+What to do with modders /;/parent|_|Hur moddare ska hanteras
+Protections /;/parent|_|Skydd
+Modder logging settings /;/parent|_|Lagra moddare inställningar
+Modder unmark settings /;/parent|_|Avmarkera moddare inställningar
+Auto kick tag settings /;/parent|_|Auto kick tagg inställningar
+Which modder detections are on /;/parent|_|Vilka moddare upptäckare är på
+Weapons /;/parent|_|Vapen
+Kek's utilities /;/parent|_|Keks verktyg
+Script loader /;/parent|_|Skript laddare
+Language configuration /;/parent|_|Språk konfiguration
+Kek's menu /;/player parent|_|Keks meny
+Vehicle /;/player parent|_|Fordon
+Weapons /;/player parent|_|Vapen
+Trolling /;/player parent|_|Trolla
+Chat /;/player parent|_|Chatt
+Malicious /;/player parent|_|Elaka
+Player utilities /;/player parent|_|Spelar verktyg
+Blacklist /;/player parent|_|Svartlista
+Scripts /;/player parent|_|Skript
+Pedestrian /;/player parent|_|Fotgängare
+Set /;/feature|_|Ställ in
+as default language. /;/feature|_|som standardspråk
+Invert all switches /;/feature|_|Invertera alla knappar
+Toggle on / off script loader /;/feature|_|Växla på / av skript laddare
+Empty script loader file /;/feature|_|Töm skript hämtare filen
+Add script to auto loader /;/feature|_|Lägg till skript i auto laddare
+Remove script from auto loader /;/feature|_|Ta bort skript ifrån auto laddare
+Modded stats, severity, click me /;/feature|_|Moddade stats, allvarighetsgrad, klicka på mig
+Modded scid detection /;/feature|_|Moddat scid upptäckare
+Modded name detection /;/feature|_|Moddat namn upptäckare
+Entity crash protection /;/feature|_|Föremåls crash skydd
+Modded net event detection /;/feature|_|Moddat nät event upptäckare
+Blacklist /;/feature|_|Svartlista
+Check people's stats automatically /;/feature|_|Kolla spelares stats automatiskt
+Check everyone's stats /;/feature|_|Kolla allas stats
+Check if anyone is in the blacklist /;/feature|_|Kolla om någon är svartlistad
+Detect any modded spectate /;/feature|_|Upptäck moddade åskådare
+Detect too long off the radar /;/feature|_|Upptäck för lång off the radar
+Kick any vote kickers /;/feature|_|Kicka alla vote kickers
+Add player / modify reason they were added /;/feature|_|Lägg till spelare / ändra varför
+Remove player from blacklist /;/feature|_|Ta bort spelare från svartlista
+Add session to blacklist /;/feature|_|Lägg till session i svartlista
+Remove session from blacklist /;/feature|_|Ta bort session från svartlista
+Get host automatically /;/feature|_|Få host automatiskt
+Log modders with selected tags to blacklist /;/feature|_|Lagra moddare med valda taggar till svartlista
+Auto kick modders with selected tags /;/feature|_|Auto kicka moddare med valda taggar
+Auto unmark modders with selected tags /;/feature|_|Auto avmarkera moddare med valda taggar
+Ram vehicle speed /;/feature|_|Ram fordon hastighet
+Ram everyone /;/feature|_|Ramma alla
+Effect type, click me /;/feature|_|Effekt typ, klicka på mig
+Apply effect to nearby vehicles /;/feature|_|Tillämpa effect till fordon i närheten
+Vehicle fly nearby vehicles /;/feature|_|Flygande fordon till fordon i närheten
+Disable vehicles /;/feature|_|Inaktivera fordon
+Vehicle storm /;/feature|_|Fordons storm
+Copy rid to clipboard /;/feature|_|Kopiera rid till urklipp
+Copy ip to clipboard /;/feature|_|Kopiera ip till urklipp
+Please click me for info /;/feature|_|Klicka på mig för info
+Num of people, click to type /;/feature|_|Antal spelare, klicka för typ
+Player history /;/feature|_|Spelar historik
+Clear searched player list /;/feature|_|Rensa sökta spelare listan
+Search (all players ever met) /;/feature|_|Sök (alla spelare du träffat)
+Add entry vehicle blacklist /;/feature|_|Lägg till inlägg fordonssvartlista
+Remove entry vehicle blacklist /;/feature|_|Ta bort inlägg fordonssvartlista
+Empty vehicle blacklist /;/feature|_|Töm fordonssvartlista
+Vehicle blacklist only on selected players /;/feature|_|Fordonssvartlista endast på utvald spelare
+Vehicle blacklist /;/feature|_|Fordonssvartlista
+What to ram people with /;/feature|_|Ramma spelare med
+Spawn vehicle for everyone /;/feature|_|Spawna fordon åt alla
+Max everyone's car /;/feature|_|Maxa allas bilar
+Teleport session to current position /;/feature|_|Teleportera sessionen till nuvarande position
+Teleport session to waypoint /;/feature|_|Teleportera sessionen till markering
+Get host /;/feature|_|Få host
+Kick session /;/feature|_|Kicka sessionen
+Crash session /;/feature|_|Krascha sessionen
+Give session bounty /;/feature|_|Ge sessionen en bounty
+Never wanted /;/feature|_|Aldrig efterlyst
+off the radar /;/feature|_|off the radar
+Reapply bounty /;/feature|_|Åter tillämpa bounty
+Give 10k /;/feature|_|Ge 10k
+Block passive /;/feature|_|Blockera passiv
+Send to random mission /;/feature|_|Skicka till random uppdrag
+Perico island /;/feature|_|Perico ön
+Apartment invites /;/feature|_|Lägenhets invites
+Ban CEO /;/feature|_|Banna CEO
+Dismiss CEO /;/feature|_|Avvisa CEO
+Terminate CEO /;/feature|_|Terminera CEO
+Transaction error /;/feature|_|Transaktions fel
+Add entry chat judger /;/feature|_|Lägg till inlägg chatt dömare
+Remove entry chat judger /;/feature|_|Ta bort inlägg chatt dömare
+Empty chat judge file /;/feature|_|Töm chatt dömare filen
+What reaction, click me /;/feature|_|Vilken reaktion, clicka på mig
+Custom chat judge /;/feature|_|Skräddarsydd chatt dömare
+Judge only selected players /;/feature|_|Döm endast valda spelare
+Spam speed, click to type /;/feature|_|Spam hastighet, klicka för att skriva
+Text to spam, type it in /;/feature|_|Text att spamma, skriv in det
+Grab text from clipboard(what u copied) /;/feature|_|Ta text från urklipp(det du kopierade)
+Grab text from clipboard and send each line /;/feature|_|Ta text från urklipp och skicka rad för rad
+Grab text from file /;/feature|_|Ta text från fil
+Random text from file /;/feature|_|Random text från fil
+Chat spammer /;/feature|_|Chatt spammare
+Echo delay, click to type /;/feature|_|Försena upprepning, klicka för att skriva
+Echo chat /;/feature|_|Upprepa chatt
+Echo selected players only /;/feature|_|Upprepa endast valda spelare
+Add entry to chat bot /;/feature|_|Lägg till inlägg i chatt bot
+Remove entry from chat bot /;/feature|_|Ta bort inlägg från chatt bot
+Remove all entries from chatbot /;/feature|_|Ta bort alla inlägg från chatt bot
+Answer delay chatbot /;/feature|_|Försena svar chatt bot
+Chat bot /;/feature|_|Chatt bot
+Disconnect from session /;/feature|_|Koppla från sessionen
+Max car /;/feature|_|Maxa bil
+Max car loop /;/feature|_|Maxa bil loop
+Change default vehicle /;/feature|_|Ändra standard fordon
+Change backplate text /;/feature|_|Ändra regplåt bak text
+What vehicle to spawn /;/feature|_|Vilket fordon ska spawnas
+Spawn vehicle /;/feature|_|Spawna fordon
+Vehicle fly speed, click to type /;/feature|_|Flygande fordon hastiget, klicka för att skriva
+Vehicle fly /;/feature|_|Flygande fordon
+Type in what object /;/feature|_|Skriv vilket föremål
+Object gun /;/feature|_|Föremåls skjutare
+Airstrike gun /;/feature|_|Luftangrepps skjutare
+What vehicle vehicle gun /;/feature|_|Vilket fordon fordons skjutare
+Vehicle gun /;/feature|_|Fordons skjutare
+Entity type, click me for info /;/feature|_|Föremåls typ, klicka på mig för info
+Clear entity type /;/feature|_|Radera föremåls typ
+Shoot entity| get model name of entity /;/feature|_|Skjut föremål|Hämta modelnamnet av föremål
+Enable hotkeys /;/feature|_|Aktivera hotkeys
+Save settings to default /;/feature|_|Spara inställningar till standard
+1 = Load profile /;/feature|_|1 = Ladda profil
+2 = Overwrite/save profile /;/feature|_|2 = Skriv över/spara profil
+3 = Change profile name /;/feature|_|3 = Ändra profilnamn
+Add player / modify reason they were added /;/player feature|_|Lägg till spelare / ändra anledning
+Remove player from blacklist /;/player feature|_|Ta bort spelare från svartlista
+Ram vehicle speed /;/player feature|_|Fordons ram hastighet
+Script event crash /;/player feature|_|Script event krasch
+Brute force crash /;/player feature|_|Brute force krasch
+Kick player /;/player feature|_|Kicka spelare
+Vehicle blacklist on this player /;/player feature|_|Fordonssvartlista på den här spelaren
+Get model name of their car to clipboard /;/player feature|_|Hämta fordonets modellnamn till urklipp
+Chat judge this player /;/player feature|_|Chatt döm denna spelare
+Echo this player /;/player feature|_|Upprepa denna spelare
+Type in ped model /;/player feature|_|Skriv in ped modell
+Spawn a ped /;/player feature|_|Spawna ped
+Car godmode /;/player feature|_|Odödligt fordon
+Copy player's car /;/player feature|_|Kopiera spelarens fordon
+Max car /;/player feature|_|Maxa fordon
+Vehicle fly player /;/player feature|_|Flygande fordon spelare
+Spastic car /;/player feature|_|CP bil
+Max car loop /;/player feature|_|Maxa fordon loop
+Repair car loop /;/player feature|_|Laga fordon loop
+What vehicle to spawn /;/player feature|_|Vilket fordon att spawna
+Spawn vehicle /;/player feature|_|Spawna fordon
+Teleport player & vehicle to waypoint /;/player feature|_|Teleportera spelare & fordon till markering
+Teleport player & vehicle to you /;/player feature|_|Teleportera spelare & fordon till dig
+Disable vehicles /;/player feature|_|Inaktivera fordon
+Off the radar /;/player feature|_|Off the radar
+10k ceo loop /;/player feature|_|10 ceo loop
+Block passive mode /;/player feature|_|Blockera passive mode
+apply bounty /;/player feature|_|Tillämpa bounty
+Reapply bounty /;/player feature|_|Åter tillämpa bounty
+Perico island /;/player feature|_|Perico ön
+Apartment invites /;/player feature|_|Lägenhets invites
+Send to random mission /;/player feature|_|Skicka till random uppdrag
+Terminate CEO /;/player feature|_|Terminera CEO
+Transaction error /;/player feature|_|Transaktions fel
+Which vehicle /;/player feature|_|Vilket fordon
+Ram player with vehicle /;/player feature|_|Ramma spelare med fordon
+Ram loop /;/player feature|_|Ram loop
+Spawn kek's chopper /;/player feature|_|Spawna keks helikopter
+Hurricane /;/player feature|_|Orkan
+Vehicle gun /;/player feature|_|Fordons skjutare
+Delete gun /;/player feature|_|Raderings vapen
+Explosion gun /;/player feature|_|Explosions vapen
+Copy rid to clipboard /;/player feature|_|Kopiera rid till urklipp
+Copy position with decimals to clipboard /;/player feature|_|Kopiera position med decimaler till urklipp
+Copy position without decimal to clipboard /;/player feature|_|Kopiera position utan decimaler till urklipp
+Copy ip to clipboard /;/player feature|_|Kopiera ip till urklipp
+Save all their stats to file /;/player feature|_|Spara alla stats i en fil
+was set as the default language. /;/msg|_|är satt som standardspråk
+Current language file is outdated, switched to english. /;/msg|_|Nuvarande språkfilen är utdaterad, ändrat till engelska.
+This language file is outdated, please update it. You can still use it, no problem. /;/msg|_|Den här språkfilen är utdaterad, vänligen uppdatera den. Du kan fortfarande använda den, det är inga problem.
+You're missing a file in kekMenuLibs. Please reinstall Kek's menu. /;/msg|_|En fil saknas från kekMenuLibs. Vänligen ominstallera Keks meny.
+There's a library file which is the wrong version, please reinstall kek's menu. /;/msg|_|En fil i arkivet har felaktig version, vänligen ominstallera keks meny.
+Something was wrong with the profiles names. Names set to default. /;/msg|_|Något gick snett med profilnamnen. Namnen ändrat till standard.
+Kek's menu /;/msg|_|Keks meny
+Turned off script loader /;/msg|_|Skriptladdare avstängd
+Turned on script loader /;/msg|_|Skriptladdare påsatt.
+Emptied script loader /;/msg|_|Skriptladdare tömd
+Added /;/msg|_|Tillagd
+to script loader /;/msg|_|i skriptladdare
+is already in the script loader /;/msg|_|finns redan i skriptladdaren
+Couldn't find file /;/msg|_|Kunde inte hitta fil
+Removed /;/msg|_|Borttagen
+from script loader /;/msg|_|från skriptladdaren
+autoexec doesn't exist /;/msg|_|autoexec existerar inte
+Chat judge:\nBounty set on /;/msg|_|Chatt dömare:\nBounty satt på
+Chat judge:\nRamming /;/msg|_|Chatt dömare:\nRammar
+with explosive tankers /;/msg|_|med explosiva tankers
+Chat judge:\nKicking player out of their vehicle. /;/msg|_|Chatt dömare:\nSparkar ut spelaren från fordonet.
+Chat judge:\nKicking /;/msg|_|Chatt dömare:\nSparkar 
+Chat judge\nCrashing /;/msg|_|Chatt dömare:\nKraschar
+sent vote kick. Kicking them... /;/msg|_|Skickat vote kick. Kickar dem...
+tried to crash you. /;/msg|_|försökte krascha dig.
+How many modded stat detections are needed to tag them as modder /;/msg|_|Hur många moddade stats upptäckter behövs för att tagga dem som moddare
+Minor detections are 1 in severity, severe ones like modded name, are 3. /;/msg|_|Mindre upptäckter är 1 i allvarlighetsgrad, allvarliga upptäckter som moddat namn, är 3.
+has: /;/msg|_|har:
+severity: /;/msg|_|allvarlighetsgrad:
+has a modded scid. /;/msg|_|har ett moddat scid.
+has a modded name. /;/msg|_|har ett moddat namn.
+Recognized /;/msg|_|Kände igen
+\nDetected: /;/msg|_|\nUpptäckte:
+\nTags:\n /;/msg|_|\nTaggar:
+Checked lobby for suspicious stats /;/msg|_|Kollade igenom lobbyn efter misstänksamma stats
+Checked blacklist. /;/msg|_|Kollade igenom svartlistan.
+is spectating /;/msg|_|spectatear
+was off the radar for too long. /;/msg|_|var off the radar för länge.
+Changed the reason this person was added to the blacklist. /;/msg|_|Ändrade anledningen varför spelaren las till i svartlistan.
+Added to blacklist. /;/msg|_|Tillagd i svartlistan.
+Removed rid. /;/msg|_|Tog bort rid.
+Couldn't find player. /;/msg|_|Hittade inte spelaren.
+Blacklist file doesn't exist. /;/msg|_|Svartliste filen existerar inte.
+You can't add yourself to the blacklist... /;/msg|_|Du kan inte lägga till dig själv i svartlistan...
+Rid is too short / invalid. /;/msg|_|Rid är för kort / ogiltligt.
+Session is empty... /;/msg|_|Sessionen är tom...
+players to the blacklist.\nChanged reasons for /;/msg|_|spelare i svartlistan.\nÄndrare anledningar för
+people already in the blacklist /;/msg|_|spelare redan i svartlistan
+Removed session from the blacklist. /;/msg|_|Tog bort sessionen från svartlistan.
+Kicking /;/msg|_|Kickar
+, flags:\n /;/msg|_|, varningar:\n
+1: Max cars\n2: Give godmode\n3: Repair cars\n4: Godmode & max\n5: Chaos mode /;/msg|_|1: Maxa fordon\n2: Gör odödlig\n3: Laga fordon\n4: Odödlig & maxa\n5: Kaos läge
+Num of people, click to type, means how many people are shown in the player history. /;/msg|_|Antal spelare, klicka för att skriva, betyder hur många spelare som visas i spelar historiken.
+The higher it is, the longer the freeze when reseting lua state becomes. Default value is safe. /;/msg|_|Ju högre det är, desto längre är du fryst när du återställer lua. Standard värdet är säkert.
+Input too short. /;/msg|_|Inmatningen är för kort.
+Entry is too short. /;/msg|_|Inlägget är för kort.
+1 = EMP\n2 = Kick out\n3 = Kick out & destroy personal vehicle\n4 = Explode\n5 = Ram with tankers /;/msg|_|1 = EMP\n2 = Sparka ut\n3 = Sparka ut & förstör personligt fordon\n4 = Spräng\n5 = Ramma med tankers
+Modified reaction in existing entry. /;/msg|_|Modifierad reaktion i existerande inlägg.
+Nothing was changed, same reaction as it previously was. /;/msg|_|Ingenting ändrades, samma reaktion som tidigare.
+Invalid entry. /;/msg|_|Ogiltligt inlägg.
+Couldn't find entry. /;/msg|_|Hittade ej inlägg.
+Emptied vehicle blacklist. /;/msg|_|Fordonssvartlista tömd.
+Vehicle blacklist:\nEMP'd /;/msg|_|Fordonssvartlista:\nEMP'ad
+Vehicle blacklist:\nKicked /;/msg|_|Fordonssvartlista:\nUtsparkad
+Vehicle blacklist:\nExploding /;/msg|_|Fordonssvartlista:\nExploderar
+out of their /;/msg|_|från deras
+Vehicle blacklist:\nRamming /;/msg|_|Fordonsvartlista:\nRammar
+Vehicle blacklist:\nCrashed /;/msg|_|Fordonssvartlista:\Kraschad
+for using /;/msg|_|för att de använde
+Copied /;/msg|_|Kopierat
+to clipboard. /;/msg|_|till urklipp.
+Player isn't in a vehicle. /;/msg|_|Spelaren är inte i något fordon.
+Cars spawned. /;/msg|_|Fordon spawnade.
+Maxed everyone's cars. /;/msg|_|Maxade allas fordon.
+Please set a waypoint. /;/msg|_|Vänligen sätt ut en markering.
+You're already host! /;/msg|_|Du är redan host!
+Entry is already in there! /;/msg|_|Inlägg finns redan där!
+Emptied. /;/msg|_|Tömd.
+0 = random(not kick / crash)\n1 = Set bounty\n2 = Ram player\n3 = Kick from vehicle /;/msg|_|0 = random(inte kick / krasch)\n1 = Sätt bounty\n2 = Ramma spelaren\n3 = Sparka från fordon
+Cancelled. /;/msg|_|Avbrytet.
+Successfully added entry. /;/msg|_|Inlägg tillagt utan problem.
+Entry was already added. /;/msg|_|Inlägget har redan lagts till.
+Removed entry. /;/msg|_|Tog bort inlägg.
+Removed all entries. /;/msg|_|Tog bort alla inlägg.
+Disconnect attempt failed. Attempting method 2... /;/msg|_|Frånkopplings försök misslyckades. Provar metod 2...
+The game will freeze, just wait 10 seconds. /;/msg|_|Spelet kommer att frysa sig, vänta 10 sekunder.
+is not in a vehicle. /;/msg|_|är inte i något fordon.
+No vehicle to copy. /;/msg|_|Inget fordon att kopiera.
+Maxed /;/msg|_|Maxad.
+vehicle. /;/msg|_|fordon.
+Failed to get control of their car. /;/msg|_|Misslyckades att få kontroll över deras fordon.
+Changed default vehicle. /;/msg|_|Standardfordon ändrat.
+Invalid input. Default value remains the same. /;/msg|_|Ogiltlig inmatning. Standardvärdet ändras inte.
+Invalid input. Plate text remains the same. /;/msg|_|Ogiltlig inmatning. Regplåt text ändras inte.
+Changed default plate text. /;/msg|_|Ändrade standard regplåt text.
+No need to teleport yourself to yourself. /;/msg|_|Onödigt att teleportera dig till dig själv.
+Modded bounties does not work while you're script host. /;/msg|_|Moddade bounties funkar inte när du är script host.
+Their position is unknown (invalid Z coordinate). Please get closer to them. /;/msg|_|Deras position är okänd (ogiltlig Z koordinat). Vänligen flytta dig närmare dem.
+Invalid object. /;/msg|_|Ogiltligt föremål.
+1: Vehicles\n2: Peds\n3: Objects\n4: Pickups\n5: Peds & Vehicles\n6: All /;/msg|_|1: Fordon\n2: Peds\n3: Föremål\n4: Uppplockningar\n5: Peds & Fordon\n6: Alla
+This model is called: /;/msg|_|Den här modellen heter:
+Saved their stats to a file. /;/msg|_|Sparade deras stats i en fil.
+Hotkey:\nTurned on /;/msg|_|Hotkey:\nAktiverad
+Hotkey:\nTurned off /;/msg|_|Hotkey:\nInaktiverad
+Hotkey:\nMaxed vehicle. /;/msg|_|Hotkey:\nMaxat fordon.
+Hotkey:\nSpawned vehicle. /;/msg|_|Hotkey:\nSpawnat fordon.
+Hotkey:\nRepaired vehicle. /;/msg|_|Hotkey:\nLagat fordon.
+vehicle fly. /;/msg|_|flygande fordon.
+vehicle gun. /;/msg|_|fordons skjutare.
+airstrike gun. /;/msg|_|luftangrepps vapen.
+Clear entity type. /;/msg|_|Radera föremåls typ.
+Hotkey:\nTagged non modders & untagged modders with manual tag. /;/msg|_|Hotkey:\nTaggade icke-moddare & otaggade moddare med manuell tagg.
+Hotkey:\nDisconnected you from session. /;/msg|_|Hotkey:\nFrånkopplade dig från sessionen.
+Hotkey:\nIncreased vehicle fly speed. /;/msg|_|Hotkey:\nÖkade flygande fordons hastigheten.
+Hotkey:\nDecreased vehicle fly speed. /;/msg|_|Hotkey:\nMinskade flygande fordons hastigheten.
+Turned off the keybinding:\n\" /;/msg|_|Stängde av denna keybind:\n\"
+Keybinding not changed. Empty input or input is the same as existing keybinding. /;/msg|_|Keybinding inte ändrad. Tom inmatning eller inmatning som redan finns som keybind.
+Invalid keybinding.\nIt's case sensitive, get it right. /;/msg|_|Ogiltlig keybind.\nDet är skiftlägeskänsligt, kom igen nu, skärp dig.
+Most of the keys like, left shift. are written in all caps. Example: LSHIFT. /;/msg|_|De flesta tangenter som, left shift. är skrivna i enbart stora bokstäver. Exempel: LSHIFT.
+Settings saved! /;/msg|_|Inställningar sparade!
+Successfully loaded /;/msg|_|Laddad utan problem
+The setting file doesn't exist.\nPlease save to this slot in order to use it. /;/msg|_|Inställningsfilen existerar inte.\nVänligen spara här för att använda den.
+Saved /;/msg|_|Sparad
+Invalid name. /;/msg|_|Ogiltligt namn.
+Saved profile name. /;/msg|_|Profilnamn sparat.
+Failed to save profile name. /;/msg|_|Misslyckades att spara profilnamn.
+Successfully loaded Kek's menu. /;/msg|_|Lyckades ladda Keks meny.
+Type in what car to use /;/input_does_not_support_unicode|_|Skriv in vilket fordon att bruka
+Type in the name of the lua script to add. /;/input_does_not_support_unicode|_|Skriv in namnet av lua skriptet att adda.
+Type in the lua script you want to remove. /;/input_does_not_support_unicode|_|Skriv in namnet av lua skriptet att ta bort.
+Type in why you're adding this person. Typing in nothing makes the reason: Manually added. /;/input_does_not_support_unicode|_|Skriv in anledningen till att du addar denna spelare. Om du inte skrivit in text, blir anledningen: Tillagd manuellt.
+Type in social club ID, also known as: rid / scid. /;/input_does_not_support_unicode|_|Skriv in social club ID, AKA: rid / scid.
+Type in ip. /;/input_does_not_support_unicode|_|Skriv in ip.
+Type in the why you're adding this person. Typing in nothing makes the reason: Manually added. /;/input_does_not_support_unicode|_|Skriv in anledningen till att du addar spelaren. Om du inte skrivit in text, blir anledningen: Tillagd manuellt.
+Type in their name. /;/input_does_not_support_unicode|_|Skriv in deras namn.
+Type in the why you're adding everyone. Typing in nothing makes the reason: Manually added. /;/input_does_not_support_unicode|_|Skriv in anledningen till att du addar allihop. Om du inte skrivit in text, blir anledningen: Tillagd manuellt.
+Type in ram speed /;/input_does_not_support_unicode|_|Skriv in ram hastighet
+Type in history limit. /;/input_does_not_support_unicode|_|Skriv in historik limit.
+Type in what player you wanna search for. rid / name / ip /;/input_does_not_support_unicode|_|Skriv in vilken spelare du letar efter. rid / namn / ip
+Type in what to add. /;/input_does_not_support_unicode|_|Skriv in vad du vill addera.
+Type in what reaction. NUMBER, 0 to 8 /;/input_does_not_support_unicode|_|Skriv in vilken reaktion. NUMBER, 0 till 8
+Type in what to remove. /;/input_does_not_support_unicode|_|Skriv in vad du vill ta bort.
+Type in which car to ram people with. /;/input_does_not_support_unicode|_|Skriv in vilken bil du vil ramma spelare med.
+Type in which car to spawn /;/input_does_not_support_unicode|_|Skriv in vilken bil att spawna.
+Type in part /;/input_does_not_support_unicode|_|Skriv in del
+of the text. All of these will be merged into one text. /;/input_does_not_support_unicode|_|av texten. Alla delar kommer att samlas till en text.
+Type in echo delay. /;/input_does_not_support_unicode|_|Skriv in upprepnings försening.
+Type in what the bot will react to. /;/input_does_not_support_unicode|_|Skriv in vad boten ska reagera till.
+Type in what the bot will say to what you previously typed in. /;/input_does_not_support_unicode|_|Skriv in vad boten kommer att svara till vad du tidigare skrev in.
+Type in what the text the bot reacts to in the entry you wish to remove. /;/input_does_not_support_unicode|_|Skriv in texten boten reagerar till i inlagan du vill ta bort.
+Type in answer delay. /;/input_does_not_support_unicode|_|Skriv in svar försening.
+Type in the name of the ped you want to spawn. /;/input_does_not_support_unicode|_|Skriv in namnet av den ped du vill spawna.
+Type in the vehicle you want to be default. /;/input_does_not_support_unicode|_|Skriv in namnet av det fordon du vill ska vara standard.
+Type in the text you want displayed on the backplate of your cars after maxing them. /;/input_does_not_support_unicode|_|Skriv in texten du vill ska synas i regskylten efter att du maxat fordonet.
+Type in vehicle speed /;/input_does_not_support_unicode|_|Skriv in fordons hastighet.
+Type in which car to ram with /;/input_does_not_support_unicode|_|Skriv in vilket fordon som ska ramma
+Type in what object to use. /;/input_does_not_support_unicode|_|Skriv in vilket objekt som ska brukas.
+Type in which car to use for vehicle stuff. /;/input_does_not_support_unicode|_|Skriv in vilket fordon som ska brukas vid fordons grejer.
+Type in what you want the keybinding to be. /;/input_does_not_support_unicode|_|Skriv in vad du vill att keybinden ska vara.
+Type in the name of the profile. /;/input_does_not_support_unicode|_|Skriv in namnet av profilen.
+Log: /;/setting|_|Lagra:
+Kick: /;/setting|_|Kicka:
+Unmark: /;/setting|_|Avmarkera:
+Max vehicle /;/hotkey|_|Maxa fordon
+Spawn vehicle /;/hotkey|_|Spawna fordon
+Repair vehicle /;/hotkey|_|Laga fordon
+Vehicle fly /;/hotkey|_|Flygande fordon
+Vehicle gun /;/hotkey|_|Fordons skjutare
+Airstrike gun /;/hotkey|_|Luftangrepps vapen
+Change vehicle used for vehicle stuff /;/hotkey|_|Ändra vilket fordon som ska användas för fordons grejer
+Tag / untag session /;/hotkey|_|Tagga / avtagga sessionen
+Disconnect from session /;/hotkey|_|Koppla bort från sessionen
+Clear entity type /;/hotkey|_|Radera föremåls typ
+Increase vehicle fly speed /;/hotkey|_|Öka flygande fordons hastighet
+Decrease vehicle fly speed /;/hotkey|_|Minska flygande fordons hastighet
+Hotkeys /;/setting|_|Hotkeys
+Chat judge:\nBlaming /;/feature|_|Chatt dömare:\nSkyller på
+for killing session. /;/feature|_|för att ha dödat sessionen.
+Glitch their vehicle /;/player feature|_|Glitcha deras fordon
+6 = Glitch their vehicle\n7 = Kick\n8 = Crash\n0 = random reaction(not kick or crash) /;/msg|_|6 = Glitcha deras fordon\n7 = Kicka\n8 = Krascha\n0 = random reaktion(inte kicka eller krascha)
+Vehicle blacklist:\nGlitching /;/msg|_|Fordonssvartlista:\nGlitcha
+Taze player /;/player feature|_|Ge spelaren stötar
+Perma-cage /;/player feature|_|Permanent bur
+Give player vehicle fly [horn toggles it] /;/player feature|_|Ge spelaren flygande fordon [Tuta för att använda]
+Finished crash. /;/msg|_|Krasch avslutad.
+Exclude friends from attacks /;/feature|_|Exkludera vänner från attacker.
+Auto tag modders after sending kick /;/feature|_|Auto tagga moddare efter du har skickat kick
+Self options /;/parent|_|Mina funktioner
+Max all weapons /;/feature|_|Maxa alla vapen
+Randomize all weapons /;/feature|_|Uppgradera alla vapen random
+Give all weapons /;/feature|_|Ge alla vapen
+Max current weapon /;/feature|_|Maxa detta vapnet
+Randomize current weapon /;/feature|_|Uppgradera detta vapnet random
+You're not holding a weapon. /;/msg|_|Du håller inte ett vapen.
+Random weapon camo /;/feature|_|Random vapen camo
+Has a lot of money & low rank. /;/msg|_|Har mycket pengar & låg rank.
+Has too much money for the rank. /;/msg|_|Har för mycket pengar för ranken.
+Has a lot of money. /;/msg|_|Har mycket pengar.
+Has Negative lvl /;/msg|_|Har Negativ level
+Has Negative k/d /;/msg|_|Har Negativ k/d
+Has a high rank. /;/msg|_|Har en hög rank.
+Has a high k/d. /;/msg|_|Har en hög k/d.
+Has modded armor. /;/msg|_|Har moddad armor.
+Has too many wins. /;/msg|_|Har för många vinster.
+Block areas /;/parent|_|Blockera områden
+Block all los santos customs /;/feature|_|Blockera alla los santos customs
+Block all Ammu-Nations /;/feature|_|Blockera alla Ammu-Nations
+Block casino /;/feature|_|Blockera casinot
+Teleport player far away /;/player feature|_|Teleportera spelaren långt bort
+Found player you were trying to add in your session. Added all their info. /;/msg|_|Hittade spelaren du försökte lägga till i din session. All deras info sparad.
+Rid /;/msg|_|Rid
+IP /;/msg|_|IP
+Name /;/msg|_|Namn
+Successfully gave /;/msg|_|Lyckades ge
+vehicle /;/msg|_|fordon
+godmode. /;/msg|_|godmode.
+Failed to get control of /;/msg|_|Misslyckades ta kontroll över
+Controller hotkeys /;/feature|_|Sätt kontroll hotkeys
+Press key to set to hotkey.\nTo turn off hotkey, press f4. /;/msg|_|Tryck på tangent för att sätta hotkey.\nFör att stänga av hotkey, tryck på f4.
+Turned off the hotkey:\n /;/msg|_|Stängde av hotkey:\n
+In order to set hotkeys for controller, this has to be on first! /;/msg|_|För att sätta hotkeys för kontroll, måste den här vara aktiverad först!
+Changed /;/msg|_|Ändrade
+to /;/msg|_|till
+Turned off /;/feature|_|Stängde av
+Hotkey:\nloaded /;/msg|_|Hotkey:\nladdad
+Load profile /;/feature|_|Ladda profil
+Hotkey:\nRandomized current weapon. /;/msg|_|Hotkey:\nSlumpade nuvarande vapnet.
+One of the people further in host queue is your friend! Cancelled. /;/msg|_|En person längre fram i host kön är din vän! Avbryter.
+Type in clear distance limit. /;/input_does_not_support_unicode|_|Skriv in borttagnings omkrets limit.
+Vehicle clear distance /;/feature|_|Fordons borttagnings sträcka
+Ped clear distance /;/feature|_|Ped borttagnings sträcka
+Object clear distance /;/feature|_|Objekt borttagnings sträcka
+Pickup clear distance /;/feature|_|Pickup borttagnings sträcka
+Dump world /;/player feature|_|Dumpa världen
+Load profile /;/feature|_|Ladda profil
+Send clown van /;/player feature|_|Skicka clown skåpbil
+4 = Blame kill lobby\n5 = Kick player\n6 = Crash player /;/msg|_|4 = Döda alla med syndabock\n5 = Kicka spelaren\n6 = Krascha spelaren
+Lag player /;/player feature|_|Lagga spelaren
+Max kicks for auto host /;/feature|_|Max kicks för auto host
+Force host:\nCancelled. Requires to kick /;/msg|_|Tvinga host:\nAvbruten. Kräver att kicka
+people in order to get host. /;/msg|_|spelare för att få host
+Your host priority is lower than theirs. Cancelled. /;/msg|_|Din host prioritet är lägre än deras. Avbruten.
+Give them host /;/player feature|_|Ge dem host
+Make nearby peds hostile /;/player feature|_|Gör peds i närheten arga
+Kick gun /;/player feature|_|Kick vapen
+Kidnap player /;/player feature|_|Kidnappa spelare
+Teleport nearby personal vehicles /;/feature|_|Teleportera personliga fordon i närheten
+sent a modded script event. /;/msg|_|skickade ett moddat script event.
+Modded script event /;/feature|_|Moddat script event
+Backwards traffic /;/feature|_|Bakvänd traffik
+Swap nearby cars /;/feature|_|Byt ut bilar i närheten
+Notification spam /;/player feature|_|Spamma notifikation
+Notification spam /;/feature|_|Spamma notifikation
+Host token /;/msg|_|Host token
+Copy host token to clipboard /;/player feature|_|Kopiera host token till urklipp
