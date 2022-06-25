@@ -1,0 +1,219 @@
+--[[
+missing numbers: duplicate or really close for human eyes as existing colors in list
+
+0:white
+1:white
+2:black
+3:grey light
+4:grey light
+5:grey dark
+6:red
+7:red light  (nearl pink)
+8:red dark
+9:blue light
+10:blue ultra light
+11:blue dark
+12:yellow light
+13:yellow ultra light (skin color)
+14:brown light
+15:orange light
+16:orange ultra light
+17:orange-brown dark
+18:green light
+19:green ultra light
+20:green
+21:purple-blue light
+22:purple-blue ultra light
+23:purlple-blue
+24:pink-purple dark 
+25:green light
+26:cyan
+27:red
+28:red light
+29:purple light (2T1 color)
+30:pink bling bling
+31:saumon (orange very light skin color)
+32:saumon-purple-brown light
+33:green ultra light
+34:cyan-blue light
+35:purple ultra light
+36:purple light (nealry same as 29)
+37:cyan light
+38:saumon-brown light
+39:orange a bit light
+40:cyan light but luminosity max
+41:purple-pink dark
+42:grey-brown light
+43:orange-brown light
+44:grey-purple light
+45:pink-purple light
+46:green-yellow light
+47:blue-green dark
+48:cyan liminosity max
+49:purple luminosity max
+50:yellow luminosity max (as net crash triger color)
+51:blue_purple dark
+52:cyan a bit dark
+53:brown-saumon light
+54:cyan ultra light
+55:yellow-white light
+56:red-pink-pink light
+57:red-pink-pink light but a bit more red
+58:brown-white light
+59:white-purple light
+60:white-green ultra light
+61:white-purple light
+62:white-purple light but bit more purple
+63:purple ultra dark
+64:orange-yellow a bit dark
+65:orange-yellow a bit dark (same)
+66:orange-yellow a bit dark (same)
+67:white-purple light
+68:white-purple dark
+69:purple ultra dark
+70:white purple light
+71:white-purple
+72:white-purple but bit more purple
+73:white-purple but bit more white
+74:same as one above
+75:red-black dark
+76:purple-pink dark
+77:purple-pink a bit lighter
+78:purple-pink-brown dark
+79:purple-pink-brown more dark
+80:white-dark green
+81:cyan-black dark
+82:?????????????????forgot
+83:purple dark
+84:cyan dark (but lighter as before)
+85:white-brown light
+86:brown-orange a bit dark
+87:cyan-blue light
+88:purple-red dark
+89:white-dark brown light
+90:brown
+91:white-purple light (another)
+92:purple-red light
+93:green-red dark
+94:blue-green max luminosity
+95:cyan-blue- kinda light lmax luminosity
+96:purple max luminosity
+97:dark brown max luminosity
+98:dark blue max luminosity
+99: dark blue-green max luminosity
+100:light brown
+106:yellow-green dark
+109:yellow-clack dark
+111:blue max luminosity
+112:orange dark
+114:pink light
+115:white-yellow ultra light
+117:back
+118:cyan max luminosity
+120:yellow max luminosity
+121:green ultra light
+123: dark blue max luminosity
+126:pink max luminosity
+127:orange max luminosity
+129:cyan-green max luminosity
+130:orange a bit dark
+131: skin color
+132:dark purple-red
+135:oragen-yellow
+136:blue a bti dark
+137:green ultra light
+138:orange
+142:purple max luminosity
+143:cyan abit dark
+145: orange a bit dark
+146: full white
+147:yellow-green a bit dark
+148:orange dark
+149:pink
+155:brown-orange dark
+156:orange-yellow ultra light
+159:cyan dark
+162: pure red
+164:dark blue
+166:dark green
+167: same a bit darker
+168:orange dark
+169:same
+171:cyan-green max luminosity
+172:greeen ultra light max luminosity
+173:orange-brown dark
+174:dark red-purple
+175:cyan max luminosity
+176:purple light
+179:orange-yellow
+180:orange-yellow a bit lighter
+181: PURE 2T1 COLOR (purple)
+185:yellow-orange light
+187:orange PURE
+188:orange lighter
+189:orange a bit darker
+190:yellow orange
+192:orange light
+193:purple-pink ultra light
+200:blue green max luminosity
+201:pink light
+202:dark blue max luminosity
+203:light green light
+204:orange-saumon light
+205:cyan-bluelight max luminosity
+206:purple light
+207:dark red
+208:red burn eyes luminosity
+209:yellow burn eyes luminosity
+210:light green burn eyes luminosity
+211:cyan burn eyes luminosity 
+212:blue burn eyes luminosity
+213:purple-pink burn eyes luminosity
+214:light blue burn eyes luminosity
+215:red 
+216:green-yellow (vomit)
+217:green-yellow dark
+218:yellow-black luminosity high
+219:yellow-black luminosity low
+220:cyan a bit dark
+221:cyan dark
+222:dark red max luminosity
+223:green-blue-black dark (water color)
+224:white ultra light
+225:white ultra light
+226:same
+227:same
+228:same
+229:same
+230:same
+231:same 
+232:same 
+233:same
+234:same
+235:same
+236:same
+237:same
+238:same
+239:same
+240:same
+241:same
+242:same
+243:same
+244:same
+245:same
+246:same
+247:same
+248:same
+249:same
+250:same
+251:same
+252:same
+253:same
+254:same
+255:same
+256:same
+
+
+
+
+]]

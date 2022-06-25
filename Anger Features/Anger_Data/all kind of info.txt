@@ -1,0 +1,29 @@
+Godme 2nd moethod & vehicle godmdoe 1st method
+
+--(TO INCLUDE IN IF NOT)224:CTaskGoToPointAnyMeans (was in loading when triggerd)
+--299:CTaskWeaponBlocked  (i feel it's not normal)
+--6:CTaskPlayerOnFoot &  (TO INCLUDE IN IF NOT)10:CTaskPlayerIdles  & 35:CTaskComplexControlMovement (triggered on death)
+--199:CTaskVehicleMountedWeapon (gets triggered from inside)
+--(TO INCLUDE IN IF NOT)135:CTaskSynchronizedScene  (forgot but it's not good)
+--128:CTaskMelee & 130:CTaskMeleeActionResult (triggered when player dont have weapon anywhere)
+--(TO INCLUDE IN IF NOT)118:CTaskUseScenario (triggered in casino)
+--(TO INCLUDE IN IF NOT)if not 0:CTaskHandsUp (triggered when moving sub or yacht)
+--(TO INCLUDE IN IF NOT)396:CTaskNMBalance; not 408:CTaskNMDangle; not 335:CTaskParachuteObject; not 423 (dont exist in listing); not 337 (dont exist in listing); not 16:CTaskGetUp  (triggered when getting in arcade room	)
+		--(TO INCLUDE IN IF NOT)32:CTaskUseSequence  & (TO INCLUDE IN IF NOT)134:CTaskScriptedAnimation (triggered when getting in submarine)
+--(TO INCLUDE IN IF NOT)38:CTaskAmbientClips (triggers everyone in loading, modshop, joiing loby.... exerytime when the ped is not visible (or in no clip maybe)
+--													
+   
+							--160 & 2 TOO DANGEROUS (you leave-enter vehicle from inside interior and it triggers multiple times)																
+		 --(4 & 290 a bit risky: lot of false detect but i made a system to avoid them)											(--159:&150:CTaskInVehicleBasic dangerous triggered when player leaves, i think dont include)			     	--392 & 298 was getting false detection from a guy in bug loading or that was getting kicked(but i think i gonne keep it)
+--if (200:CTaskVehicleGun & 295:CTaskAimGunVehicleDriveBy & 4:CTaskAimGunOnFoot &  290:CTaskGun 
+--& 56:CTaskSwapWeapon & 422:CTaskFall & 159:CtaskPlayerDrive  &150:CTaskInVehicleBasic 
+--& 165:CTaskInVehicleSeatShuffle & 18:CTaskFallOver  & 162:CTaskOpenVehicleDoorFromOutside 
+--& 392:CTaskNMBuoyancy & 298:CTaskReloadGun  & 403:CTaskNMFlinch &225:CTaskTurnToFaceEntityOrCoord	
+--& 51:CTaskDropDown & 46:CTaskSlopeScramble  & 287:CTaskCover 
+--& 288:CTaskMotionInCover & 309:CTaskInCover 167:CTaskExitVehicleSeat &415:CTaskNMRiverRapids 
+--& 1:CTaskClimbLadder &289:CTaskAimAndThrowProjectile &50:CTaskVault
+		--everything from below are false detection
+		
+
+speed from get_entity_speed is in meter/seconds
+
