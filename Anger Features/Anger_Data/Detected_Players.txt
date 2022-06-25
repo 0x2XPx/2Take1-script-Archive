@@ -1,0 +1,3 @@
+someguy1 | rid | IP | Host_token : was detected for Ang-Godmode
+someguy2 | rid | IP | Host_toekn : was detected for Ang-Godmode
+someguy3 | rid | IP | Host _token : was detected for Ang-Godmode
