@@ -2,7 +2,7 @@ sG.wolf's script made by sG.wolf / sG.wolf#5732
 
 Installtion guide: 
 
-Choose a version you wanna use (latest version is recommended (v1.9.0).
+Choose a version you wanna use (latest version is recommended (v1.10.0).
 
 Either go to "C:\Users\USERNAME\AppData\Roaming\PopstarDevs\2Take1Menu\scripts"
 or
