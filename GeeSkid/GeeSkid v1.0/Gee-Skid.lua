@@ -1256,24 +1256,6 @@ function _GT_gta_map.load_main()
 		_GT_gta_map.z_point[i] = scriptdraw.register_sprite(_GT_veh_esp_table.file_root.."\\scripts\\GeeSkid\\gta_map\\heading_marker\\"..i..".png")
 		system.yield(0)
 	end
-	_GT_gta_map.z_point_gif_delphine = {}
-	for i=1,186 do
-		_GT_gta_map.z_point_gif_delphine[i] = scriptdraw.register_sprite(_GT_veh_esp_table.file_root.."\\scripts\\GeeSkid\\gta_map\\heading_marker\\delphine_gif\\"..i..".png")
-		system.yield(0)
-	end
-	for i=0,186 do
-		_GT_gta_map.z_point_gif_delphine[#_GT_gta_map.z_point_gif_delphine+1] = scriptdraw.register_sprite(_GT_veh_esp_table.file_root.."\\scripts\\GeeSkid\\gta_map\\heading_marker\\delphine_gif\\"..(186-i)..".png")
-		system.yield(0)
-	end
-	_GT_gta_map.z_point_gif_zoo = {}
-	for i=1,113 do
-		_GT_gta_map.z_point_gif_zoo[i] = scriptdraw.register_sprite(_GT_veh_esp_table.file_root.."\\scripts\\GeeSkid\\gta_map\\heading_marker\\zoo_bounce\\"..i..".png")
-		system.yield(0)
-	end
-	for i=0,113 do
-		_GT_gta_map.z_point_gif_zoo[#_GT_gta_map.z_point_gif_zoo+1] = scriptdraw.register_sprite(_GT_veh_esp_table.file_root.."\\scripts\\GeeSkid\\gta_map\\heading_marker\\zoo_bounce\\"..(113-i)..".png")
-		system.yield(0)
-	end
 	_GT_gta_map.z_point_mark = scriptdraw.register_sprite(_GT_veh_esp_table.file_root.."\\scripts\\GeeSkid\\gta_map\\heading_marker\\marker.png")
 	
 	_GT_gta_map.plyr_list = {}
@@ -1281,7 +1263,7 @@ function _GT_gta_map.load_main()
 		_GT_gta_map.plyr_list[i] = {i-1, false, v2(0,0),0, 1,false,0,"",0,0}
 	end
 	_GT_gta_map.loaded=true
-end
+end 
 _GT_gta_map.map1_alpha = _GF_RGBAToInt(255,255,255,255)
 _GT_gta_map.plyr1_alpha = _GF_RGBAToInt(255,255,255,255)
 _GT_gta_map.head1_alpha = _GF_RGBAToInt(255,255,255,255)
