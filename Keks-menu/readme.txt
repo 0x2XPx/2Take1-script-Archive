@@ -11,3 +11,5 @@ or
 Press Windows key + R and type "%appdata%/popstardevs/2take1menu/scripts" (without the quotes) and press enter.
 
 Then just take everything from "Kek's menu 0.4.*.*" and drop it into your scripts folder.
+
+(extra step for beta users, when in-game open the script and enable "participate in betas")
