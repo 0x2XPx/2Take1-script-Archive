@@ -5,7 +5,7 @@ if DriftMod then
 	return
 end
 
-LocalMain = menu.add_feature("Drift Script V1.3.0", "parent", 0).id
+LocalMain = menu.add_feature("Drift Script V1.3.1", "parent", 0).id
 
 local controller = menu.add_feature("Controller Features", "parent", LocalMain)
 local neon = menu.add_feature("Neons", "parent", LocalMain)
