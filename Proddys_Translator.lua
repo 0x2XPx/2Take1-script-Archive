@@ -1,5 +1,5 @@
 local ScriptName = "Proddy's Translator"
-local Version = "1.3"
+local Version = "1.5"
 
 if ProddysTranslator then
 	menu.notify("Script already loaded", ScriptName, 10, 0xFF0000FF)
@@ -232,23 +232,61 @@ local function notify(message, title, seconds, colour)
 	print(string.format("[%s] %s > %s", ScriptName .. " v" .. Version, title, message))
 end
 
-local function Translate(text, targetLang)
+local EscapeCodes = {
+	["\\"] = "\\",
+	["r"] = "\r",
+	["n"] = "\n",
+	['"'] = '"',
+	["'"] = "'",
+	["t"] = "\t",
+}
+local function ProcessEscapeCode(char)
+	return EscapeCodes[char] or ("\\" .. char)
+end
+
+local function GoogleTranslate1(text, targetLang)
 	local encoded = web.urlencode(text)
-	print(encoded)
 	if targetLang then
 		targetLang = web.urlencode(targetLang)
 	else
 		targetLang = "en"
 	end
 	
-	local statusCode, body = web.get("https://translate.googleapis.com/translate_a/single?client=gtx&sl=auto&tl=" .. targetLang .. "&dt=t&q=" .. encoded)
+	local statusCode, body = web.get("https://translate.googleapis.com/translate_a/single?client=gtx&sl=auto&tl=" .. targetLang .. "&dt=t&dj=1&source=input&q=" .. encoded)
 	
 	if statusCode ~= 200 then
 		return false, body
 	end
 	
-	local translation, original = body:match('^%[%[%["(.-)","(.-)"')
-	local sourceLang = body:match('.+"(.-)"%]%]%]$')
+	local sentences, sourceLang = body:match('{"sentences":(%b[]),"src":"(.-)"')
+	
+	local translationTbl = {}
+	for sentence in sentences:gmatch('{"trans":"(.-)","orig"') do
+		translationTbl[#translationTbl + 1] = sentence
+	end
+	
+	local translation = table.concat(translationTbl)
+	translation = translation:gsub("\\(.)", ProcessEscapeCode)
+	
+	return true, translation, sourceLang
+end
+
+local function GoogleTranslate2(text, targetLang)
+	local encoded = web.urlencode(text)
+	if targetLang then
+		targetLang = web.urlencode(targetLang)
+	else
+		targetLang = "en"
+	end
+	
+	local statusCode, body = web.get("https://clients5.google.com/translate_a/t?client=dict-chrome-ex&sl=auto&tl="..targetLang.."&q="..encoded)
+	
+	if statusCode ~= 200 then
+		return false, body
+	end
+	
+	local translation, sourceLang = body:match('^%[%["(.-)","(.-)"%]%]')
+	translation = translation:gsub("\\(.)", ProcessEscapeCode)
 	
 	return true, translation, sourceLang
 end
@@ -262,7 +300,7 @@ local function TranslateChat(event)
 	if (Settings.TranslateSelf or pid ~= player.player_id()) and player.is_player_valid(pid) then
 		local name = player.get_player_name(pid)
 		
-		local success, translation, sourceLang = Translate(event.body, Settings.TargetLang)
+		local success, translation, sourceLang = GoogleTranslate1(event.body, Settings.TargetLang)
 		
 		if not success then
 			notify("Error translating. Check console.")
@@ -280,7 +318,7 @@ local ParentId = menu.add_feature(ScriptName, "parent").id
 
 local EnableTranslationFeat = menu.add_feature("Enable Translation", "toggle", ParentId, function(f)
 	Settings.EnableTranslation = f.on
-	notify("Set EnableTranslation to: " .. tostring(Settings.EnableTranslation), nil, nil, 0xFF00FF00)
+	print("Set EnableTranslation to: " .. tostring(Settings.EnableTranslation))
 	if f.on then
 		if f.data then
 			return
@@ -300,14 +338,14 @@ EnableTranslationFeat.on = Settings.EnableTranslation
 
 local TargetLangFeat = menu.add_feature("Target Language", "autoaction_value_str", ParentId, function(f)
 	Settings.TargetLang = LangLookupByName[LangKeys[f.value + 1]]
-	print("Set TargetLang to: " .. Settings.TargetLang, nil, nil, 0xFF00FF00)
+	print("Set TargetLang to: " .. Settings.TargetLang)
 end)
 TargetLangFeat:set_str_data(LangKeys)
 TargetLangFeat.value = LangIndexes[Settings.TargetLang] - 1
 
 local TranslateSelfFeat = menu.add_feature("Translate Self", "toggle", ParentId, function(f)
 	Settings.TranslateSelf = f.on
-	print("Set TranslateSelf to: " .. tostring(Settings.TranslateSelf), nil, nil, 0xFF00FF00)
+	print("Set TranslateSelf to: " .. tostring(Settings.TranslateSelf))
 end)
 TranslateSelfFeat.on = Settings.TranslateSelf
 
@@ -345,7 +383,7 @@ menu.add_feature("Send Translated Message", "action_value_str", ParentId, functi
 		system.wait(0)
 	until r == 0
 	
-	local success, translation, sourceLang = Translate(s, TargetLang)
+	local success, translation, sourceLang = GoogleTranslate1(s, TargetLang)
 		
 	if not success then
 		notify("Error translating. Check console.")
