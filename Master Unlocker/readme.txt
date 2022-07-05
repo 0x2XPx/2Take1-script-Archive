@@ -4,7 +4,7 @@ https://github.com/jhowkNx/Master-Unlocker
 
 Installtion guide: 
 
-Choose a version you wanna use (latest version is recommended (1.23.0).
+Choose a version you wanna use (latest version is recommended (1.24.0).
 
 Either go to "C:\Users\USERNAME\AppData\Roaming\PopstarDevs\2Take1Menu\scripts"
 or
