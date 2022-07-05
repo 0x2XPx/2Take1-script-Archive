@@ -1,5 +1,5 @@
 local ScriptName = "Proddy's Translator"
-local Version = "1.7.1"
+local Version = "1.7.3"
 
 if ProddysTranslator then
 	menu.notify("Script already loaded", ScriptName, 10, 0xFF0000FF)
@@ -224,6 +224,29 @@ end
 LoadSettings(ScriptName, Settings)
 LoadSettings(ScriptName .. " Excluded Languages", ExcludedLanguages)
 
+local basePrint = print
+local function print(...)
+	basePrint(...)
+	local success, result = pcall(function(...)
+		local args = {...}
+		if #args == 0 then
+			return
+		end
+		
+		local currTime = os.date("*t")
+		local file = io.open(Paths.LogFile, "a")
+		
+		for i=1,#args do
+			file:write(string.format("[%02d-%02d-%02d %02d:%02d:%02d] <%s> %s\n", currTime.year, currTime.month, currTime.day, currTime.hour, currTime.min, currTime.sec, Version, tostring(args[i])))
+		end
+		
+		file:close()
+	end, ...)
+	if not success then
+		basePrint("Error writing log: " .. result)
+	end
+end
+
 local notif = menu.notify
 local function notify(message, title, seconds, colour)
 	title = title or (ScriptName .. " v" .. Version)
@@ -258,6 +281,10 @@ local function GoogleTranslate1(encodedText, targetLang)
 	
 	local sentences, sourceLang = body:match('{"sentences":(%b[]),"src":"(.-)"')
 	
+	if sentences == nil then
+		return false, body
+	end
+	
 	local translationTbl = {}
 	for sentence in sentences:gmatch('{"trans":"(.-)","orig"') do
 		translationTbl[#translationTbl + 1] = sentence
@@ -280,6 +307,11 @@ local function GoogleTranslate2(encodedText, targetLang)
 	end
 	
 	local translation, sourceLang = body:match('^%[%["(.-)","(.-)"%]%]')
+	
+	if translation == nil then
+		return false, body
+	end
+	
 	translation = translation:gsub("\\u([a-fA-F0-9][a-fA-F0-9][a-fA-F0-9][a-fA-F0-9])", ProcessEscapeCode)
 	translation = translation:gsub("\\(.)", ProcessEscapeChar)
 	
@@ -334,6 +366,11 @@ local function DeepLTranslate(isFree, key, encodedText, targetLang)
 	end
 	
 	local translations = body:match('{"translations":(%b[])')
+	
+	if translations == nil then
+		return false, body
+	end
+	
 	local sourceLang
 	
 	local translationTbl = {}
@@ -346,7 +383,12 @@ local function DeepLTranslate(isFree, key, encodedText, targetLang)
 	translation = translation:gsub("\\u([a-fA-F0-9][a-fA-F0-9][a-fA-F0-9][a-fA-F0-9])", ProcessEscapeCode)
 	translation = translation:gsub("\\(.)", ProcessEscapeChar)
 	
-	return true, translation, sourceLang:lower()
+	sourceLang = sourceLang:lower()
+	if sourceLang == "zh" then
+		sourceLang = "zh-CN"
+	end
+	
+	return true, translation, sourceLang
 end
 local function DeepLFreeTranslate(encodedText, targetLang)
 	print("Translating with DeepL Free")
