@@ -46,7 +46,7 @@ menu.notify("sub1to/Cynical, Making 2take1 and its lua\nDemon Kiya, Function hel
 end
 Credits()
 -- other vars
-local RSEGv = "1.4.0"
+local RSEGv = "1.5.0"
 local pc = 0
 local pct = 0
 
@@ -143,8 +143,8 @@ mCountMin = menu.add_feature('Arg Count Min', 'action_value_i', valuesetm, funct
 
     value = tonumber(value)
 
-    if value < 2 or value > 9 then
-        menu.notify('Min count must be between 2 and 9')
+    if value < 2 or value > 48 then
+        menu.notify('Min count must be between 2 and 48')
         return
     end
 
@@ -156,7 +156,7 @@ mCountMin = menu.add_feature('Arg Count Min', 'action_value_i', valuesetm, funct
     f.value = value
 end)
 mCountMin.min = 2
-mCountMin.max = 9
+mCountMin.max = 48
 mCountMin.value = 2
 
 mCountMax = menu.add_feature('Arg Count Max', 'action_value_i', valuesetm, function(f)
@@ -174,8 +174,8 @@ mCountMax = menu.add_feature('Arg Count Max', 'action_value_i', valuesetm, funct
 
     value = tonumber(value)
 
-    if value < 3 or value > 10 then
-        menu.notify('Max count must be between 3 and 10')
+    if value < 3 or value > 49 then
+        menu.notify('Max count must be between 3 and 49')
         return
     end
 
@@ -187,7 +187,7 @@ mCountMax = menu.add_feature('Arg Count Max', 'action_value_i', valuesetm, funct
     f.value = value
 end)
 mCountMax.min = 2
-mCountMax.max = 9
+mCountMax.max = 49
 mCountMax.value = 9
 -- rseg player feature modifications
 pRangeMin = menu.add_player_feature('Arg Value Min', 'action_value_i', valuesetp, function(f, pid)
@@ -267,8 +267,8 @@ pCountMin = menu.add_player_feature('Arg Count Min', 'action_value_i', valuesetp
 
     value = tonumber(value)
 
-    if value < 2 or value > 9 then
-        menu.notify('Min count must be between 2 and 9')
+    if value < 2 or value > 48 then
+        menu.notify('Min count must be between 2 and 48')
         return
     end
 
@@ -280,7 +280,7 @@ pCountMin = menu.add_player_feature('Arg Count Min', 'action_value_i', valuesetp
     f.value = value
 end)
 pCountMin.min = 2
-pCountMin.max = 9
+pCountMin.max = 48
 pCountMin.value = 2
 
 pCountMax = menu.add_player_feature('Arg Count Max', 'action_value_i', valuesetp, function(f, pid)
@@ -298,8 +298,8 @@ pCountMax = menu.add_player_feature('Arg Count Max', 'action_value_i', valuesetp
 
     value = tonumber(value)
 
-    if value < 3 or value > 10 then
-        menu.notify('Max count must be between 3 and 10')
+    if value < 3 or value > 49 then
+        menu.notify('Max count must be between 3 and 49')
         return
     end
 
@@ -310,10 +310,11 @@ pCountMax = menu.add_player_feature('Arg Count Max', 'action_value_i', valuesetp
 
     f.value = value
 end)
-pCountMax.min = 2
-pCountMax.max = 9
+pCountMax.min = 3
+pCountMax.max = 49
 pCountMax.value = 9
 
+-- delay settings
 menu.add_feature("Delay Notifications", "toggle", delaysetm, function(f)
     if f.on then
         dNot = true
@@ -321,7 +322,7 @@ menu.add_feature("Delay Notifications", "toggle", delaysetm, function(f)
         dNot = false
     end
 end)
--- delay settings
+
 local DMod = menu.add_feature("Delay Modifier", "autoaction_value_i", delaysetm, function(f)
     dMod = f.value
     if dNot then
@@ -358,12 +359,12 @@ end)
 
 local sehashes = require("RSEL")
 -- for RSEG ALL
---[[local function rseg(hash, pid)
+local function rseg(hash, pid)
     local pname = player.get_player_name(pid)
     local amount = math.random(mCountMin.value, mCountMax.value)
     local argtable = {}
 
-    argtable[1] = math.random(0, 31)
+    argtable[1] = player.player_id()
     for i = 2, #amount do
         argtable[i] = math.random(mRangeMin.value, mRangeMax.value)
     end
@@ -371,77 +372,21 @@ local sehashes = require("RSEL")
     script.trigger_script_event(hash, pid, argtable)
     local RSEG = ("script.trigger_script_event("..hash..", "..pid..", ("..table.concat(argtable, ", ")..")")
     log(RSEG, "[PID: "..pid.."] [Name: "..pname.."]", "Name - "..pname..".log")
-end]]
-local function rseg(hash, pid)
-    local pname = player.get_player_name(pid)
-    local sarg1 = math.random(0, 31)
-    local sarg2 = math.random(mRangeMin.value, mRangeMax.value)
-    local sarg3 = math.random(mRangeMin.value, mRangeMax.value)
-    local sarg4 = math.random(mRangeMin.value, mRangeMax.value)
-    local sarg5 = math.random(mRangeMin.value, mRangeMax.value)
-    local sarg6 = math.random(mRangeMin.value, mRangeMax.value)
-    local sarg7 = math.random(mRangeMin.value, mRangeMax.value)
-    local sarg8 = math.random(mRangeMin.value, mRangeMax.value)
-    local sarg9 = math.random(mRangeMin.value, mRangeMax.value)
-    local sarg10 = math.random(mRangeMin.value, mRangeMax.value)
-    local sargs = {
-        {sarg1, sarg2},
-        {sarg1, sarg2, sarg3},
-        {sarg1, sarg2, sarg3, sarg4},
-        {sarg1, sarg2, sarg3, sarg4, sarg5},
-        {sarg1, sarg2, sarg3, sarg4, sarg5, sarg6},
-        {sarg1, sarg2, sarg3, sarg4, sarg5, sarg6, sarg7},
-        {sarg1, sarg2, sarg3, sarg4, sarg5, sarg6, sarg7, sarg8},
-        {sarg1, sarg2, sarg3, sarg4, sarg5, sarg6, sarg7, sarg8, sarg9},
-        {sarg1, sarg2, sarg3, sarg4, sarg5, sarg6, sarg7, sarg8, sarg9, sarg10}
-    }
-    local s = math.random(mCountMin.value, mCountMax.value)
-    script.trigger_script_event(hash, pid, sargs[s])
-    local RSEG = ("script.trigger_script_event("..hash..", "..pid..", ("..table.concat(sargs[s], ", ")..")")
-    log(RSEG, "[PID: "..pid.."] [Name: "..pname.."]", "Name - "..pname..".log")
 end
 
 local hash1 = nil
---[[local function rseg2(hash, pid)
+local function rseg2(hash, pid)
     local pname = player.get_player_name(pid)
     local amount = math.random(pCountMin.value[pid], pCountMax.value[pid])
     local argtable = {}
 
-    argtable[1] = math.random(0, 31)
+    argtable[1] = player.player_id()
     for i = 2, amount do
         argtable[i] = math.random(pRangeMin.value[pid], pRangeMax.value[pid])
     end
 
     script.trigger_script_event(hash, pid, argtable)
     local RSEG = ("script.trigger_script_event("..hash..", "..pid..", ("..table.concat(argtable, ", ")..")")
-    log(RSEG, "[PID: "..pid.."] [Name: "..pname.."]", "Name - "..pname..".log")
-end]]
-local function rseg2(hash2, pid)
-    local pname = player.get_player_name(pid)
-    local sarg1 = math.random(0, 31)
-    local sarg2 = math.random(pRangeMin.value[pid], pRangeMax.value[pid])
-    local sarg3 = math.random(pRangeMin.value[pid], pRangeMax.value[pid])
-    local sarg4 = math.random(pRangeMin.value[pid], pRangeMax.value[pid])
-    local sarg5 = math.random(pRangeMin.value[pid], pRangeMax.value[pid])
-    local sarg6 = math.random(pRangeMin.value[pid], pRangeMax.value[pid])
-    local sarg7 = math.random(pRangeMin.value[pid], pRangeMax.value[pid])
-    local sarg8 = math.random(pRangeMin.value[pid], pRangeMax.value[pid])
-    local sarg9 = math.random(pRangeMin.value[pid], pRangeMax.value[pid])
-    local sarg10 = math.random(pRangeMin.value[pid], pRangeMax.value[pid])
-    local sargs = {
-        {sarg1, sarg2},
-        {sarg1, sarg2, sarg3},
-        {sarg1, sarg2, sarg3, sarg4},
-        {sarg1, sarg2, sarg3, sarg4, sarg5},
-        {sarg1, sarg2, sarg3, sarg4, sarg5, sarg6},
-        {sarg1, sarg2, sarg3, sarg4, sarg5, sarg6, sarg7},
-        {sarg1, sarg2, sarg3, sarg4, sarg5, sarg6, sarg7, sarg8},
-        {sarg1, sarg2, sarg3, sarg4, sarg5, sarg6, sarg7, sarg8, sarg9},
-        {sarg1, sarg2, sarg3, sarg4, sarg5, sarg6, sarg7, sarg8, sarg9, sarg10}
-    }
-    local s = math.random(pCountMin.value[pid], pCountMax.value[pid])
-    script.trigger_script_event(hash2, pid, sargs[s])
-    local RSEG = ("script.trigger_script_event("..hash2..", "..pid..", ("..table.concat(sargs[s], ", ")..")")
     log(RSEG, "[PID: "..pid.."] [Name: "..pname.."]", "Name - "..pname..".log")
 end
 
@@ -470,6 +415,7 @@ end).data = 0
 menu.add_player_feature("Reset Counter", "action", rsegp, function()
 pc = 0
 pct = 0
+menu.notify("Reset the player RSEG counter")
 end)
 
 menu.add_player_feature("RSEG Player", "action", rsegp, function(f, pid)
@@ -486,6 +432,55 @@ menu.add_player_feature("RSEG Player", "toggle", rsegp, function(f, pid)
         rseg2(hash1, pid)
         system.wait(pDelay)
     end
+end)
+
+local mResults = {}
+
+local Mnumbersearch = menu.add_feature('Value Search: ', 'action_value_str', searchm.id, function(f)
+    local code, value = input.get('Enter Search Value', '', 10, 2)
+
+    while code == 1 do
+        coroutine.yield(0)
+        code, value = input.get('Enter Search Value', '', 10, 2)
+    end
+
+    if code == 2 then
+        menu.notify('Input canceled.')
+        return
+    end
+
+    if #mResults > 0 then
+        for i = 1, #mResults do
+            menu.delete_feature(mResults[i].id)
+            mResults[i] = nil
+        end
+    end
+
+    for i = 1, #sehashes do
+        if string.find(sehashes[i], value, 1) then
+            mResults[#mResults + 1] = menu.add_feature(sehashes[i], 'action', searchm.id, function()
+                for pid=0,31 do
+                    rseg(sehashes[i], pid)
+                end
+            end)
+        end
+    end
+
+    menu.notify(#mResults .. ' results')
+
+    f:set_str_data({value})
+end)
+Mnumbersearch:set_str_data({' '})
+
+menu.add_feature('Clear Search', 'action', searchm.id, function(f)
+    if #mResults > 0 then
+        for i = 1, #mResults do
+            menu.delete_feature(mResults[i].id)
+            mResults[i] = nil
+        end
+        menu.notify('Search cleared.')
+    end
+    Mnumbersearch:set_str_data({' '})
 end)
 
 local pResults = {}
@@ -537,56 +532,8 @@ menu.add_player_feature('Clear Search', 'action', searchp.id, function(f)
     numbersearch:set_str_data({' '})
 end)
 
-local mResults = {}
-
-local Mnumbersearch = menu.add_feature('Value Search: ', 'action_value_str', searchm.id, function(f)
-    local code, value = input.get('Enter Search Value', '', 10, 2)
-
-    while code == 1 do
-        coroutine.yield(0)
-        code, value = input.get('Enter Search Value', '', 10, 2)
-    end
-
-    if code == 2 then
-        menu.notify('Input canceled.')
-        return
-    end
-
-    if #mResults > 0 then
-        for i = 1, #mResults do
-            menu.delete_feature(mResults[i].id)
-            mResults[i] = nil
-        end
-    end
-
-    for i = 1, #sehashes do
-        if string.find(sehashes[i], value, 1) then
-            mResults[#mResults + 1] = menu.add_feature(sehashes[i], 'action', searchm.id, function()
-                for pid=0,31 do
-                    rseg(sehashes[i], pid)
-                end
-            end)
-        end
-    end
-
-    menu.notify(#mResults .. ' results')
-
-    f:set_str_data({value})
-end)
-Mnumbersearch:set_str_data({' '})
-
-menu.add_feature('Clear Search', 'action', searchm.id, function(f)
-    if #mResults > 0 then
-        for i = 1, #mResults do
-            menu.delete_feature(mResults[i].id)
-            mResults[i] = nil
-        end
-        menu.notify('Search cleared.')
-    else
-        menu.notify('No results found.')
-    end
-    Mnumbersearch:set_str_data({' '})
-end)
-
 menu.notify("RandomScriptEventGenerator successfully loaded\nVersion: "..RSEGv)
+event.add_event_listener("exit", function()
+    menu.notify("RandomScriptEventGenerator unloaded, Goodbye.")
+end)
 RSEGon = true
