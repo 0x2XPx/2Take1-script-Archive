@@ -6,6 +6,4 @@ Either go to "C:\Users\USERNAME\AppData\Roaming\PopstarDevs\2Take1Menu\scripts"
 or
 Press Windows key + R and type "%appdata%/popstardevs/2take1menu/scripts" (without the quotes) and press enter.
 
-Then just take "RSEG.lua" or "RSEG-Alt.lua" and the "lib" folder and drop it into your scripts folder.
-
-Either use "RSEG.lua" or "RSEG-Alt.lua", don't use both.
+Then just take "RSEG.lua" and the "lib" folder and drop it into your scripts folder.
