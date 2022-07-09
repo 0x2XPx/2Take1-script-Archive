@@ -4,7 +4,7 @@ https://github.com/RulyPancake/Meteor
 
 Installtion guide: 
 
-Choose a version you wanna use (latest version is recommended (1.4.0).
+Choose a version you wanna use (latest version is recommended (1.5.0).
 
 Either go to "C:\Users\USERNAME\AppData\Roaming\PopstarDevs\2Take1Menu\scripts"
 or
