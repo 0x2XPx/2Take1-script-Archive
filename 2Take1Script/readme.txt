@@ -4,7 +4,7 @@ https://github.com/DemonKiya/2Take1Script-Revive
 
 Installtion guide: 
 
-Choose a version you wanna use (latest version is recommended (2.6.0).
+Choose a version you wanna use (latest version is recommended (2.6.1).
 
 Either go to "C:\Users\USERNAME\AppData\Roaming\PopstarDevs\2Take1Menu\scripts"
 or
