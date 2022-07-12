@@ -2,7 +2,7 @@ GeeSkid made Gee-Man521 / Gee-Man521#7067
 
 Installtion guide: 
 
-Choose a version you wanna use (latest version is recommended (v1.2).
+Choose a version you wanna use (latest version is recommended (v1.3).
 
 Either go to "C:\Users\USERNAME\AppData\Roaming\PopstarDevs\2Take1Menu\scripts"
 or
