@@ -4,7 +4,7 @@ https://github.com/IN2-Moist/2Take1-Moist-Script
 
 Installtion guide: 
 
-Choose a version you wanna use (latest version is recommended (2.0.6.7)(you can also use the latest beta but it could be unstable).
+Choose a version you wanna use (latest version is recommended (3.0.0.0).
 
 Either go to "C:\Users\USERNAME\AppData\Roaming\PopstarDevs\2Take1Menu\scripts"
 or
