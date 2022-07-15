@@ -1,0 +1,12 @@
+local VehicleHash = {
+  MK2 = 2069146067,
+  LAZER = 3013282534,
+  HYDRA = 970385471,
+  DELUXO = 1483171323,
+  AKULA = 1181327175,
+  MK1 = 884483972,
+  B11 = 1692272545
+}
+return VehicleHash
+
+
