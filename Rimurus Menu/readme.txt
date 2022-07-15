@@ -4,7 +4,7 @@ https://github.com/Rimmuru/Rimurus-2T1-Scripts
 
 Installtion guide: 
 
-Choose a version you wanna use (latest version is recommended (2.1.1)
+Choose a version you wanna use (latest version is recommended (2.1.2)
 
 Either go to "C:\Users\USERNAME\AppData\Roaming\PopstarDevs\2Take1Menu\scripts"
 or
