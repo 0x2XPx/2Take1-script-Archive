@@ -1,3 +1,6 @@
+Stopped updating, gta is very boring after some time.
+
+
 Archive of lua scripts for the 2Take1 menu. 
 Non of these are made by me.
 
