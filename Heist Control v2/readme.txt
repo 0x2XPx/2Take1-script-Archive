@@ -4,7 +4,7 @@ https://github.com/jhowkNx/Heist-Control-v2
 
 Installtion guide: 
 
-Choose a version you wanna use (latest version is recommended (v2.24.0).
+Choose a version you wanna use (latest version is recommended (v2.26.0).
 
 Either go to "C:\Users\USERNAME\AppData\Roaming\PopstarDevs\2Take1Menu\scripts"
 or
