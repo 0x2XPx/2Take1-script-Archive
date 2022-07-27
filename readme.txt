@@ -1,6 +1,3 @@
-Stopped updating, gta is very boring after some time.
-
-
 Archive of lua scripts for the 2Take1 menu. 
 Non of these are made by me.
 
@@ -10,3 +7,4 @@ Put every other Script into your scripts folder, at "C:\Users\USERNAME\AppData\R
 
 
 Note, if you are searching for an older version of a script thats not in this branch, go to the old-scripts branch.
+Also, I only update every 6-8 days or when there are alot of scripts that have updated.
